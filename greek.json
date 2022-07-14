@@ -1,0 +1,4229 @@
+{
+    "title": "The 500 most frequent Ancient Greek words",
+    "languages": {
+        "source": "grc",
+        "translations": [
+            "eng",
+            "ita"
+        ]
+    },
+    "metadata": {
+        "version": "1",
+        "date": "2022-07-14",
+        "author": "alexanderacker",
+        "link": "https://gitlab.com/alexanderacker/wordlist"
+    },
+    "license": {
+        "license": "CC-BY-SA-2.0",
+        "link": "http://creativecommons.org/licenses/by-sa/2.0/",
+        "changes-made": true,
+        "original-author-credit": {
+            "author": "Dickenson College Commentaries",
+            "link": "https://dcc.dickinson.edu/vocab/core-vocabulary"
+        }
+    },
+    "table": {
+        "header": [
+            "Headword",
+            "Definition",
+            "Definizione",
+            "Part of Speech",
+            "Semantic Group",
+            "Frequency"
+        ],
+        "content": [
+            [
+                "ὁ ἡ τό",
+                "the",
+                "il, la",
+                "definite article",
+                "Pronouns/Interrogatives",
+                "1"
+            ],
+            [
+                "αὐτός αὐτή αὐτό",
+                "him- her- itself etc. (for emphasis); the same (with article); (pron.) him, her, it, etc. (in oblique cases)",
+                "lui stesso - lei stessa ecc. (per enfasi); lo stesso (con l'articolo); (pron.) egli, ella, ciò (in casi obliqui)",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "2"
+            ],
+            [
+                "καί",
+                "and, also, even; καί...καί both...and",
+                "e, anche, addirittura; καί...καί sia… sia",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "3"
+            ],
+            [
+                "δέ",
+                "and; but",
+                "e; ma",
+                "conjunction: coordinating",
+                "Particles",
+                "4"
+            ],
+            [
+                "τίς τί",
+                "who? what? which? (interrog. pron./adj.)",
+                "chi? che cosa? quale? (pronome interrogativo/aggettivo)",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "5"
+            ],
+            [
+                "εἰμί, ἔσομαι, impf. ἦν, infin. εἶναι",
+                "be, exist",
+                "essere, esistere",
+                "verb: irregular",
+                "Humanity and Being",
+                "6"
+            ],
+            [
+                "οὗτος αὕτη τοῦτο",
+                "this, these; μετὰ ταῦτα after this",
+                "questo, questa;μετὰ ταῦτα dopo questo",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "7"
+            ],
+            [
+                "ἤ",
+                "or; than (after a comparative); ἤ...ἤ either...or",
+                "o; che/di (dopo una comparativa);ἤ...ἤ o… o, sia… sia",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "8"
+            ],
+            [
+                "ἐν",
+                "in, among (+dat.)",
+                "in, in mezzo, fra (+dat.)",
+                "preposition",
+                "Direction",
+                "9"
+            ],
+            [
+                "μέν...δέ",
+                "on the one hand...on the other hand (often untranslated); μέν (by itself) indeed",
+                "da una parte… dall'altra (spesso non tradotto); μέν (da solo) davvero",
+                "conjunction: coordinating",
+                "Particles",
+                "10"
+            ],
+            [
+                "τις τι",
+                "someone, something, anyone, anything, some, any (enclitic indef. pron./adj.)",
+                "qualcuno, qualcosa, qualsiasi (pron. Enclit. Indef./agg.)",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "11"
+            ],
+            [
+                "ὅς ἥ ὅ",
+                "who, which, that",
+                "chi, che cosa, che",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "12"
+            ],
+            [
+                "γάρ",
+                "for (explanatory), indeed, in fact (confirming)",
+                "per (raccontare una storia), certamente, infatti (per ribadire)",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "13"
+            ],
+            [
+                "οὐ, οὐκ, οὐχ",
+                "not (with indicative verbs)",
+                "non (con verbi indicativi)",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "14"
+            ],
+            [
+                "λέγω, ἐρῶ, εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην and ἐρρήθην",
+                "say, speak (of), recount; pick up, collect, count",
+                "dire, parlare (di), raccontare; raccogliere, contare",
+                "verb: -ω palatal stem",
+                "Writing and Talking",
+                "15"
+            ],
+            [
+                "ὡς",
+                "as, since; (introducing purpose clause) so that (+subj./opt.); (introducing indir. statement) that",
+                "come, che; affinché (intr. una finale); così che (+ sogg./opt.); (intr. una dichiarativa ind.)",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "16"
+            ],
+            [
+                "τε",
+                "and; τε…τε both…and",
+                "e; τε…τε sia… sia",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "17"
+            ],
+            [
+                "εἰς",
+                "into, to, towards (+acc.)",
+                "in, a, verso (+acc.)",
+                "preposition",
+                "Direction",
+                "18"
+            ],
+            [
+                "ἐπί",
+                "at (+gen.); on (+dat.); on to, against (+acc.)",
+                "su/verso/a (+gen.); su (+dat.); su/contro (+acc.)",
+                "preposition",
+                "Direction",
+                "19"
+            ],
+            [
+                "κατά",
+                "down, down (from or along), throughout, according to; κατὰ γῆν by land; κατὰ φύσιν in accordance with nature; κατ’ ἔθνη by nations; καθ᾿ἕνα one by one.",
+                "sotto, giù (da o lungo), in direzione di, riguardo a; κατὰ γῆν dalla terra; κατὰ φύσιν in accordo con la natura; κατ’ ἔθνη dalle nazioni; καθ᾿ἕνα uno a uno",
+                "preposition",
+                "Direction",
+                "20"
+            ],
+            [
+                "ἐγώ ἐμοῦ, (pl.) ἡμεῖς, ἡμῶν",
+                "I, we",
+                "io, noi",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "21"
+            ],
+            [
+                "πρός",
+                "from the side of, in the presence of (+gen.); near, at, in addition to (+dat.); to, towards, in relation to (+acc.)",
+                "da parte di, alla presenza di (+gen.); vicino, presso, in aggiunta a (+dat.); verso, vicino a, in relazione a (+acc.)",
+                "preposition",
+                "Direction",
+                "22"
+            ],
+            [
+                "γίγνομαι, γενήσομαι, 2 aor. ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην",
+                "become; be born; happen, be",
+                "venire, essere nato, accadere, essere",
+                "verb: deponent",
+                "Humanity and Being",
+                "23"
+            ],
+            [
+                "ἐάν (εἰ-ἄν)",
+                "if (+subj.)",
+                "se (+sog.)",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "24"
+            ],
+            [
+                "διά",
+                "through, during, because of (+gen., acc.)",
+                "attraverso, durante, a causa di (+gen., acc.)",
+                "preposition",
+                "Prepositions without Direction",
+                "25"
+            ],
+            [
+                "ἀλλά",
+                "but",
+                "ma",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "26"
+            ],
+            [
+                "πᾶς πᾶσα πᾶν",
+                "every, all; whole (with article)",
+                "ciascuno, tutto; il tutto (con articolo)",
+                "noun: 3rd declension irregular",
+                "Measurements and Numerals",
+                "27"
+            ],
+            [
+                "ἔχω, ἕξω or σχήσω, 2 aor. ἔσχον, ἔσχηκα, impf. εἶχον",
+                "have, hold, keep",
+                "avere, tenere, mantenere",
+                "verb: -ω palatal stem",
+                "Taking and Giving",
+                "28"
+            ],
+            [
+                "ἐκ, ἐξ",
+                "from, out of (+gen.)",
+                "da, fuori da (+gen.)",
+                "preposition",
+                "Direction",
+                "29"
+            ],
+            [
+                "πολύς πολλή πολύ",
+                "much, many; ὡς ἐπὶ τὸ πολύ for the most part",
+                "molto, molti; ὡς ἐπὶ τὸ πολύ per la maggior parte",
+                "noun: 3rd declension irregular",
+                "Measurements and Numerals",
+                "30"
+            ],
+            [
+                "περί",
+                "around, about; concerning (+gen.)",
+                "attorno a, riguardo a; a proposito di (+gen.)",
+                "preposition",
+                "Direction",
+                "31"
+            ],
+            [
+                "μή",
+                "not (marks the negative as subjective or conditional); εἰ μή if not, except",
+                "non (marca la negativa come soggettiva o condizionale); εἰ μή se non, eccetto",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "32"
+            ],
+            [
+                "ὅστις ἥτις ὅ τι",
+                "anyone who, anything which; (in indir. quest.) who, which, what",
+                "nessuno che, niente che; (in doman. indir.) chi, che cosa, cosa",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "33"
+            ],
+            [
+                "ἄν",
+                "[marks verbs as potential (with optative), or generalizing (with subjunctive)]",
+                "[marca verbi come potenziali (con ottativo), o generalizzando (con una soggettiva)]",
+                "adverb",
+                "Particles",
+                "34"
+            ],
+            [
+                "σύ, σοῦ, (pl.) ὑμεῖς, ὑμῶν",
+                "you",
+                "tu, voi",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "35"
+            ],
+            [
+                "ἀνά",
+                "up, on; throughout",
+                "su, sopra; per ciascuno",
+                "preposition",
+                "Direction",
+                "36"
+            ],
+            [
+                "ὅτι",
+                "because, that; (with superl.) as...as possible",
+                "perché, che; (con superl.) as...as possibile",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "37"
+            ],
+            [
+                "εἰ",
+                "if (+indic. or opt.); εἴπερ if indeed",
+                "se (+indic. o opt.); εἴπερ se davvero",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "38"
+            ],
+            [
+                "ἄλλος ἄλλη ἄλλο",
+                "other, another",
+                "altro, un altro",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "39"
+            ],
+            [
+                "ἀπό",
+                "from (+gen.)",
+                "da (+gen.)",
+                "preposition",
+                "Direction",
+                "40"
+            ],
+            [
+                "φημί, φήσω, impf. ἔφην",
+                "say, assert, declare; οὐ φημί deny, refuse, say that...not",
+                "dire, asserire, dichiarare; οὐ φημί negare, rifiutare, dire che… non",
+                "verb: -μι",
+                "Writing and Talking",
+                "41"
+            ],
+            [
+                "ὑπό",
+                "under (+gen., dat.); by (+gen. of personal agent); down under (+acc.)",
+                "sotto (+gen., dat.); da (+gen. Di agente); giù sotto (+acc.)",
+                "preposition",
+                "Direction",
+                "42"
+            ],
+            [
+                "ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην",
+                "make, produce, cause, do; (mid.) consider, reckon",
+                "fare, produrre, causare, fare; (medio) considerare, valutare",
+                "verb: contracted",
+                "Work and Leisure",
+                "43"
+            ],
+            [
+                "οὖν",
+                "therefore, accordingly; at any rate",
+                "quindi, di conseguenza; in ogni caso",
+                "adverb",
+                "Particles",
+                "44"
+            ],
+            [
+                "λόγος λόγου, ὁ",
+                "word, speech, discourse; thought, reason, account",
+                "parola, linguaggio, discorso; pensiero, ragione, conto",
+                "noun: 2nd declension",
+                "Writing and Talking",
+                "45"
+            ],
+            [
+                "παρά",
+                "from (+gen.); beside (+dat.); to, to the side of, contrary to (+acc.)",
+                "da (+gen.); accanto (+dat.); a, al lato di, contrariamente a (+acc.)",
+                "preposition",
+                "Direction",
+                "46"
+            ],
+            [
+                "οὕτως",
+                "in this way",
+                "in questo modo",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "47"
+            ],
+            [
+                "πρότερος προτέρα πρότερον",
+                "before, earlier; τὸ πρότερον previously, before",
+                "precedente",
+                "adjective: 1st and 2nd declension",
+                "Time",
+                "48"
+            ],
+            [
+                "θεός θεοῦ, ὁ/ἡ",
+                "god, goddess",
+                "dio, dea",
+                "noun: 2nd declension",
+                "Religion",
+                "49"
+            ],
+            [
+                "μετά",
+                "with (+gen.); after (+acc.)",
+                "con (+gen.); dopo (+acc.)",
+                "preposition",
+                "Prepositions without Direction",
+                "50"
+            ],
+            [
+                "ἑαυτοῦ ἑαυτῆς ἑαυτοῦ",
+                "him- her- itself (reflexive pron.)",
+                "lui, lei (pron. riflessivo)",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "51"
+            ],
+            [
+                "μέγας μεγάλη μέγα",
+                "big, great, powerful",
+                "grande, grande, potente",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "52"
+            ],
+            [
+                "οὐδέ",
+                "and not, but not, nor; οὐδέ...οὐδέ not even...nor yet",
+                "e non, ma non, non; οὐδέ...οὐδέ non sempre…. Non già",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "53"
+            ],
+            [
+                "ἐκεῖνος ἐκείνη ἐκεῖνο",
+                "that person or thing; ἐκεῖνος…οὗτος the former…the latter",
+                "quella persona o cosa; ἐκεῖνος ... οὗτος il primo ... il secondo",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "54"
+            ],
+            [
+                "τοιοῦτος τοιαύτη τοιοῦτο",
+                "such, of such a sort",
+                "tale, di un tale tipo",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "55"
+            ],
+            [
+                "οὐδείς οὐδεμία οὐδέν",
+                "no one, nothing",
+                "nessuno, niente",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "56"
+            ],
+            [
+                "εἶπον",
+                "I said, I spoke, 2 aor. → λέγω, φημί",
+                "Io dissi, Io parlai, 2 aor. → λέγω, φημί",
+                "verb: irregular",
+                "Writing and Talking",
+                "57"
+            ],
+            [
+                "ἀγαθός –ή –όν",
+                "good, virtuous, brave, noble",
+                "buono, virtuoso, bravo, nobile",
+                "adjective: 1st and 2nd declension",
+                "Ethics and Morals",
+                "58"
+            ],
+            [
+                "γε",
+                "(enclitic) indeed; at least, at any rate",
+                "(enclitica) davvero; almeno, in ogni caso",
+                "adverb",
+                "Particles",
+                "59"
+            ],
+            [
+                "δή",
+                "surely, really, now, in fact, indeed (gives greater exactness)",
+                "sicuramente, davvero, ora, infatti, anzi (dà maggiore esattezza)",
+                "adverb",
+                "Particles",
+                "60"
+            ],
+            [
+                "πόλις πόλεως, ἡ",
+                "city, city-state",
+                "città, città-stato",
+                "noun: 3rd declension ι-stem",
+                "Government and Society",
+                "61"
+            ],
+            [
+                "εἷς μία ἕν",
+                "one",
+                "uno",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "62"
+            ],
+            [
+                "ἵημι, ἥσω, ἧκα, -εἷκα, εἷμαι, -εἵθην",
+                "put in motion, let go, shoot; (mid.) hasten, rush",
+                "mettere in moto, lasciar andare, sparare; (medio) affrettare, correre",
+                "verb: -μι",
+                "Work and Leisure",
+                "63"
+            ],
+            [
+                "δέω, δεήσω, ἐδέησα, δεδέηκα, δεδέημαι, ἐδεήθην",
+                "lack, miss, stand in need of (+gen.)",
+                "mancare, perdere, avere bisogno del (+gen.)",
+                "verb: contracted",
+                "Taking and Giving",
+                "64"
+            ],
+            [
+                "ἄνθρωπος –ου, ὁ/ἡ",
+                "human being",
+                "uomo",
+                "noun: 2nd declension",
+                "Humanity and Being",
+                "65"
+            ],
+            [
+                "ὁράω, ὄψομαι, 2 aor. εἶδον, ἑόρακα and ἑώρακα, ὤφθην, impf. ἑώρων",
+                "see, look (to)",
+                "vedere, guardare (a)",
+                "verb: contracted",
+                "The Senses and Feelings",
+                "66"
+            ],
+            [
+                "μόνος μόνη μόνον",
+                "alone, single",
+                "da solo, solo",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "67"
+            ],
+            [
+                "οὔτε...οὔτε",
+                "neither...nor",
+                "né… né",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "68"
+            ],
+            [
+                "οἷος οἵα οἷον",
+                "such as, of what sort, like, (exclam.) what a!, how! ; οἷός τε (+infin.) fit or able to; οἷόν τε (+infin.) it is possible to",
+                "come, di che tipo, come, (esclam.) che a !, come! ; οἷός τε (+ infin.) adatto o in grado di; οἷόν τε (+ infin.) è possibile",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "69"
+            ],
+            [
+                "λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην",
+                "take, grasp, seize; receive, get",
+                "prendere, afferrare, cogliere; ricevere, ottenere",
+                "verb: -ω liquid stem",
+                "Taking and Giving",
+                "70"
+            ],
+            [
+                "δοκέω, δόξω, ἔδοξα",
+                "think, suppose, imagine (+acc. and infin.); seem, seem good; (impers.) δοκεῖ μοι it seems to me",
+                "pensare, supporre, immaginare (+acc. E infin.); sembrare, sembrare bene; (impers.) δοκεῖ μοι mi sembra",
+                "verb: -ω palatal stem",
+                "The Mind, Perceiving and Learning",
+                "71"
+            ],
+            [
+                "ἕτερος ἑτέρα ἕτερον",
+                "the other (of two); other, another",
+                "l'altro (di due); altro, un altro",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "72"
+            ],
+            [
+                "κακός –ή –όν",
+                "bad, wicked, cowardly",
+                "cattivo, malvagio, codardo",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "73"
+            ],
+            [
+                "ἀνήρ ἀνδρός, ὁ",
+                "man, husband",
+                "uomo, marito",
+                "noun: 3rd declension irregular",
+                "Humanity and Being",
+                "74"
+            ],
+            [
+                "ἐπεί",
+                "after, since, when",
+                "dopo, da quando, quando",
+                "conjunction: subordinating",
+                "Time",
+                "75"
+            ],
+            [
+                "ὅσος ὅση ὅσον",
+                "however much; as great as; (in pl.) as many as; ὅσον (adv.) as much as",
+                "per quanto molto; grande come; (in pl.) tanti quanti; ὅσον (adv.) tanto quanto",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "76"
+            ],
+            [
+                "καλέω, καλῶ, ἐκάλεσα, κέκληκα, κέκλημαι, ἐκλήθην",
+                "call, summon",
+                "chiamare, convocare",
+                "verb: contracted",
+                "Writing and Talking",
+                "77"
+            ],
+            [
+                "σῶμα σώματος, τό",
+                "body",
+                "corpo",
+                "noun: 3rd declension consonant stem",
+                "Body Parts",
+                "78"
+            ],
+            [
+                "δεῖ, δεήσει, impf. ἔδει",
+                "it is necessary, one must, one ought (+acc. and infin.)",
+                "è necessario, bisogna, si deve (+acc. e infin.)",
+                "verb: impersonal",
+                "Ethics and Morals",
+                "79"
+            ],
+            [
+                "ὥσπερ",
+                "just as, as if",
+                "proprio come, come se",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "80"
+            ],
+            [
+                "δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην",
+                "give, grant, offer",
+                "dare",
+                "verb: -μι",
+                "Taking and Giving",
+                "81"
+            ],
+            [
+                "ἔτι",
+                "still, yet",
+                "ancora, già",
+                "adverb",
+                "Time",
+                "82"
+            ],
+            [
+                "φύσις φύσεως, ἡ",
+                "nature; (of the mind) one’s nature or disposition; regular order of nature",
+                "natura; (della mente) la propria natura o disposizione; ordine regolare della natura",
+                "noun: 3rd declension ι-stem",
+                "World Order",
+                "83"
+            ],
+            [
+                "μικρός –ά –όν",
+                "small, little, short",
+                "piccolo, piccolo, corto",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "84"
+            ],
+            [
+                "δύναμαι, δυνήσομαι, ἐδυνήθην, δεδύνημαι",
+                "(+infin.) to be able (to), be strong enough (to)",
+                "(+infin.) essere in grado (di), essere abbastanza forte (a)",
+                "verb: impersonal",
+                "Work and Leisure",
+                "85"
+            ],
+            [
+                "ὥστε",
+                "(introducing natural or actual result clause) so as, so that, (with the result) that",
+                "(introducendo la clausola del risultato naturale o reale) in modo tale che (con il risultato)",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "86"
+            ],
+            [
+                "ἀρχή ἀρχῆς, ἡ",
+                "beginning, origin; rule, empire, realm; magistracy",
+                "inizio, origine; regola, impero, regno; magistratura",
+                "noun: 1st declension",
+                "Time",
+                "87"
+            ],
+            [
+                "ἕκαστος ἑκάστη ἕκαστον",
+                "each (of several)",
+                "ciascuno (di più)",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "88"
+            ],
+            [
+                "ἡμέρα ἡμέρας, ἡ",
+                "day",
+                "giorno",
+                "noun: 1st declension",
+                "World Order",
+                "89"
+            ],
+            [
+                "φύω, φύσω, ἔφυσα",
+                "bring forth, produce, beget; 2 aor. ἔφυν grew, pf. πέφυκα be by nature",
+                "generare, produrre, generare; 2 aor. Ἔφυν cresciuto, pf. Πέφυκα essere per natura",
+                "verb: -ω vowel stem",
+                "World Order",
+                "90"
+            ],
+            [
+                "ἅπας ἅπασα ἅπαν",
+                "all together",
+                "tutto insieme",
+                "noun: 3rd declension irregular",
+                "Measurements and Numerals",
+                "91"
+            ],
+            [
+                "ὅμοιος ὁμοία ὅμοιον",
+                "like, resembling (+dat.)",
+                "come, somigliante (+ dat.)",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "92"
+            ],
+            [
+                "νῦν, νυνί",
+                "now",
+                "ora",
+                "adverb",
+                "Time",
+                "93"
+            ],
+            [
+                "γῆ γῆς, ἡ",
+                "earth",
+                "terra",
+                "noun: 1st declension",
+                "Earth",
+                "94"
+            ],
+            [
+                "δύναμις δυνάμεως, ἡ",
+                "power, strength, ability",
+                "potere, forza, abilità",
+                "noun: 3rd declension ι-stem",
+                "War and Peace",
+                "95"
+            ],
+            [
+                "καλός –ή –όν",
+                "beautiful, noble, honorable",
+                "bello, nobile, onorabile",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "96"
+            ],
+            [
+                "κύριος κυρίου, ὁ",
+                "lord, master",
+                "signore, capo",
+                "noun: 2nd declension",
+                "Government and Society",
+                "97"
+            ],
+            [
+                "μᾶλλον",
+                "more, rather; μᾶλλον...ἤ rather than",
+                "più, piuttosto; μᾶλλον ... ἤ piuttosto che",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "98"
+            ],
+            [
+                "ὅδε ἥδε τόδε",
+                "this",
+                "questo",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "99"
+            ],
+            [
+                "ὅλος ὅλη ὅλον",
+                "whole, entire, complete",
+                "intero, intero, completo",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "100"
+            ],
+            [
+                "μέρος μέρους, τό",
+                "part, share",
+                "parte",
+                "noun: 3rd declension σ-stem",
+                "Measurements and Numerals",
+                "101"
+            ],
+            [
+                "ἄρα",
+                "therefore, then (drawing an inference)",
+                "quindi, quindi (traendo un'inferenza)",
+                "adverb",
+                "Particles",
+                "102"
+            ],
+            [
+                "ἐμός ἐμή ἐμόν",
+                "my, mine",
+                "mio",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "103"
+            ],
+            [
+                "χράομαι, χρήσομαι, ἐχρησάμην, κέχρημαι, ἐχρήσθην",
+                "use, experience, suffer (+dat.); treat someone in a certain way (+dat. and adv.)",
+                "usare, conoscere, soffrire (+dat.); trattare qualcuno in un certo modo (+dat. e avv.)",
+                "verb: deponent",
+                "Government and Society",
+                "104"
+            ],
+            [
+                "δύο",
+                "two",
+                "due",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "105"
+            ],
+            [
+                "χρόνος χρόνου, ὁ",
+                "time",
+                "tempo",
+                "noun: 2nd declension",
+                "Time",
+                "106"
+            ],
+            [
+                "ἴσος ἴση ἴσον",
+                "equal, the same as (+dat.)",
+                "uguale, la stessa cosa di (+dat.)",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "107"
+            ],
+            [
+                "ὅταν (ὅτε-ἄν)",
+                "whenever (+subj.)",
+                "quando (+sugg.)",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "108"
+            ],
+            [
+                "μόνον",
+                "only",
+                "solo",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "109"
+            ],
+            [
+                "οἶδα, infin. εἰδέναι, imper. ἴσθι, plupf. used as impf. ᾔδειν",
+                "to know (pf. in pres. sense); to know how to (+infin.)",
+                "conoscere (pf. in senso di pres.); sapere come (+infin.)",
+                "verb: irregular",
+                "The Mind, Perceiving and Learning",
+                "110"
+            ],
+            [
+                "βασιλεύς βασιλέως, ὁ",
+                "king",
+                "re",
+                "noun: 3rd declension -εύς, -έως",
+                "Government and Society",
+                "111"
+            ],
+            [
+                "ὦ",
+                "oh! (unemphatic when with the vocative)",
+                "oh! (senza enfasi con il vocativo)",
+                "interjection",
+                "Particles",
+                "112"
+            ],
+            [
+                "βούλομαι, βουλήσομαι, βεβούλημαι, ἐβουλήθην",
+                "(+infin.) will, wish (to); be willing (to); ὁ βουλόμενος anyone who likes",
+                "(+infin.) volere, desiderare (a); essere disposti (a); ὁ βουλόμενος chi ama",
+                "verb: deponent",
+                "The Senses and Feelings",
+                "113"
+            ],
+            [
+                "φαίνω, φανῶ, ἔφηνα, πέφηνα, πέφασμαι, ἐφάνην",
+                "bring to light, make appear, make clear; (pass.) come to light, be seen, appear, appear to be (+ptc. or infin.)",
+                "portare alla luce, fare apparire, rendere chiaro; (Pass.) venire in luce, essere visto, apparire, sembra essere (+ ptc o infin.)",
+                "verb: -ω liquid stem",
+                "Showing and Finding",
+                "114"
+            ],
+            [
+                "γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην",
+                "write",
+                "scrivere",
+                "verb: -ω labial stem",
+                "Writing and Talking",
+                "115"
+            ],
+            [
+                "φέρω, οἴσω, 1 aor. ἤνεγκα, 2 aor. ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην",
+                "carry, bring, fetch; carry off or away; φέρε come now, well",
+                "trasportare, portare, recuperare; portare via o lontano; φέρε vieni ora, bene",
+                "verb: irregular",
+                "Work and Leisure",
+                "116"
+            ],
+            [
+                "ψυχή ψυχῆς, ἡ",
+                "breath, life, soul",
+                "respiro, vita, anima",
+                "noun: 1st declension",
+                "Humanity and Being",
+                "117"
+            ],
+            [
+                "μηδείς μηδεμία μηδέν",
+                "no one, nothing",
+                "nessuno, niente",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "118"
+            ],
+            [
+                "αἴτιος αἰτία αἴτιον",
+                "responsible, guilty",
+                "responsabile, colpevole",
+                "adjective: 1st and 2nd declension",
+                "Law and Judgment",
+                "119"
+            ],
+            [
+                "πάλιν",
+                "back, backwards; again",
+                "indietro, indietro; ancora",
+                "adverb",
+                "Direction",
+                "120"
+            ],
+            [
+                "μάλιστα",
+                "most, most of all; (in replies) certainly",
+                "la maggior parte, soprattutto; (nelle risposte) certamente",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "121"
+            ],
+            [
+                "ὑπάρχω, ὑπάρξω, ὑπῆρξα, ὑπῆργμαι, ὑπήρχθην",
+                "exist, be, belong to; τὰ ὑπάρχοντα existing circumstances",
+                "esistere, essere, appartenere; τὰ ὑπάρχοντα attuali circostanze",
+                "verb: -ω palatal stem",
+                "Humanity and Being",
+                "122"
+            ],
+            [
+                "ἄρχω, ἄρξω, ἦρξα, ἦργμαι, ἤρχθην",
+                "begin (+gen.); lead, rule, govern (+gen.)",
+                "iniziare (+gen.); condurre, dominare, governare (+gen.)",
+                "verb: -ω palatal stem",
+                "Time",
+                "123"
+            ],
+            [
+                "γυνή γυναικός, ἡ",
+                "woman, wife",
+                "donna, moglie",
+                "noun: 3rd declension irregular",
+                "Humanity and Being",
+                "124"
+            ],
+            [
+                "ποτε (enclitic)",
+                "at some time, ever, in the world",
+                "a un certo momento, sempre, nel mondo",
+                "adverb",
+                "Time",
+                "125"
+            ],
+            [
+                "ἵνα",
+                "in order that (conj. +subj. or opt.); where (rel. adv. +indic.)",
+                "in modo che (cong. + sugg. o opt.); dove (rel. avv + indic.)",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "126"
+            ],
+            [
+                "ὄνομα ὀνόματος, τό",
+                "name; fame",
+                "nome; fama",
+                "noun: 3rd declension consonant stem",
+                "Writing and Talking",
+                "127"
+            ],
+            [
+                "ὑπέρ",
+                "for (+gen), beyond (+acc.)",
+                "per (+ gen), oltre (+ acc.)",
+                "preposition",
+                "Prepositions without Direction",
+                "128"
+            ],
+            [
+                "ἤδη",
+                "already, now (of the immediate past); presently (of the immediate future)",
+                "già, ora (del passato immediato); attualmente (del futuro immediato)",
+                "adverb",
+                "Time",
+                "129"
+            ],
+            [
+                "πατήρ πατρός, ὁ",
+                "father",
+                "padre",
+                "noun: 3rd declension irregular",
+                "Family and Friendship and the Home",
+                "130"
+            ],
+            [
+                "ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, plup. ἠκηκόη or ἀκηκόη, ἠκούσθην",
+                "listen (to), hear (of)",
+                "ascoltare (a), sentire (di)",
+                "verb: -ω vowel stem",
+                "The Senses and Feelings",
+                "131"
+            ],
+            [
+                "γένος γένους, τό",
+                "race, family; kind, class",
+                "razza, famiglia; gentile, classe, tipo",
+                "noun: 3rd declension σ-stem",
+                "Family and Friendship and the Home",
+                "132"
+            ],
+            [
+                "τόπος τόπου, ὁ",
+                "place; topic",
+                "posto; argomento",
+                "noun: 2nd declension",
+                "Earth",
+                "133"
+            ],
+            [
+                "πράσσω, πράξω, ἔπραξα, πέπραχα, πέπραγμαι, ἐπράχθην",
+                "do, achieve, accomplish; do or fare in a certain way (+adv.)",
+                "fare",
+                "verb: -ω dental stem",
+                "Work and Leisure",
+                "134"
+            ],
+            [
+                "πρῶτος πρώτη πρῶτον",
+                "first, foremost, earliest; (adv.) τὸ πρῶτον in the first place",
+                "innanzitutto, prima; (avv.) τὸ πρῶτον in primo luogo",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "135"
+            ],
+            [
+                "εὑρίσκω, εὑρήσω, 2 aor. ηὗρον or εὗρον, ηὕρηκα or εὕρηκα, εὕρημαι, εὑρέθην",
+                "find (out), discover, devise",
+                "trovare, scoprire, inventare",
+                "verb: -ω palatal stem",
+                "Showing and Finding",
+                "136"
+            ],
+            [
+                "παῖς παιδός, ὁ/ἡ",
+                "son, daughter, child; slave",
+                "figlio, figlia, bambino; schiavo",
+                "noun: 3rd declension consonant stem",
+                "Family and Friendship and the Home",
+                "137"
+            ],
+            [
+                "ἔρχομαι, fut. εἶμι or ἐλεύσομαι, 2 aor. ἦλθον, ἐλήλυθα",
+                "come, go",
+                "andare, venire",
+                "verb: deponent",
+                "Movement",
+                "138"
+            ],
+            [
+                "υἱός υἱοῦ, ὁ",
+                "son",
+                "figlio",
+                "noun: 2nd declension",
+                "Family and Friendship and the Home",
+                "139"
+            ],
+            [
+                "ὕδωρ ὕδατος, τό",
+                "water",
+                "acqua",
+                "noun: 3rd declension consonant stem",
+                "World Order",
+                "140"
+            ],
+            [
+                "ἴδιος ἰδία ἴδιον",
+                "one’s own; peculiar, separate, distinct",
+                "il proprio; peculiare, separato, distinto",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "141"
+            ],
+            [
+                "σός σή σόν",
+                "your, yours (sg.; ὑμέτερος = pl.)",
+                "tuo, vostro (sg.; ὑμέτερος = pl.)",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "142"
+            ],
+            [
+                "γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην",
+                "come to know, learn; judge, think, or determine that (+acc. and infin.)",
+                "venire a conoscere, imparare; giudicare, pensare o determinare che (+acc. e infin.)",
+                "verb: -ω palatal stem",
+                "The Mind, Perceiving and Learning",
+                "143"
+            ],
+            [
+                "τυγχάνω, τεύξομαι, ἔτυχον, τετύχηκα, τέτυγμαι, ἐτύχθην",
+                "hit, light upon, meet by chance (+gen.); reach, gain, obtain; happen to be (+ptc.)",
+                "colpito, acceso, incontro per caso (+ gen.); Raggiungere, ottenere, ottenere; Capita di essere il verbo (+ ptc.)",
+                "verb: -ω liquid stem",
+                "Humanity and Being",
+                "144"
+            ],
+            [
+                "ἵστημι στήσω will set, ἔστησα set, caused to stand, 2 aor. ἔστην stood, ἕστηκα stand, plup. εἱστήκη stood, ἐστάθην stood",
+                "make to stand, set",
+                "mettersi in piedi",
+                "verb: -μι",
+                "Work and Leisure",
+                "145"
+            ],
+            [
+                "ἅμα",
+                "at the same time; (prep.) together with (+dat.)",
+                "allo stesso tempo; (prep.)insieme con (+dat.)",
+                "adverb",
+                "Time",
+                "146"
+            ],
+            [
+                "ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην",
+                "lead, carry, bring; pass (time)",
+                "condurre, portare; passare (tempo)",
+                "verb: -ω palatal stem",
+                "Movement",
+                "147"
+            ],
+            [
+                "τρόπος τρόπου, ὁ",
+                "way, manner, fashion; way of life, habit, custom",
+                "modo, modo, moda; stile di vita, abitudine, costume",
+                "noun: 2nd declension",
+                "Characteristics",
+                "148"
+            ],
+            [
+                "μήτε...μήτε",
+                "neither...nor",
+                "né…né",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "149"
+            ],
+            [
+                "μέσος μέση μέσον",
+                "middle, in the middle, moderate; τὸ μέσον midst",
+                "medio, nel mezzo, moderato; τὸ μέσον il mezzo",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "150"
+            ],
+            [
+                "ἀλλήλων –οις",
+                "(oblique cases plural only) one another, each other",
+                "(casi obliqui plurali solo) l'un l'altro, l'un l'altro",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "151"
+            ],
+            [
+                "ἀεί",
+                "always",
+                "sempre",
+                "adverb",
+                "Time",
+                "152"
+            ],
+            [
+                "φίλος φίλη φίλον",
+                "beloved, dear; friendly",
+                "amato, caro; amichevole",
+                "adjective: 1st and 2nd declension",
+                "Family and Friendship and the Home",
+                "153"
+            ],
+            [
+                "συμβαίνω, συμβήσομαι, 2 aor. συνέβην, συμβέβηκα",
+                "meet, come to an agreement, correspond; happen, occur, come to pass; turn out in a certain way (+adv.), result",
+                "incontrare, giungere ad un accordo, corrispondere; accadere, verificarsi, accadere; risulta in un certo modo (+ avv.), Derivare",
+                "verb: -ω liquid stem",
+                "Family and Friendship and the Home",
+                "154"
+            ],
+            [
+                "ἔργον ἔργου, τό",
+                "work, achievement, exploit",
+                "lavoro, realizzazione, exploit",
+                "noun: 2nd declension",
+                "Work and Leisure",
+                "155"
+            ],
+            [
+                "πλέω, πλεύσομαι, ἔπλευσα, πέπλευκα, πέπλευσμαι, ἐπλεύσθην",
+                "sail",
+                "navigare",
+                "verb: contracted",
+                "Government and Society",
+                "156"
+            ],
+            [
+                "τότε",
+                "then, at that time; οἱ τότε the men of that time (opp. οἱ νῦν)",
+                "allora, in quel momento; anche gli uomini di quel tempo (opp. οἱ νῦν)",
+                "adverb",
+                "Time",
+                "157"
+            ],
+            [
+                "μήν",
+                "[emphasizes preceding particle]",
+                "[sottolinea la particella precedente]",
+                "adverb",
+                "Particles",
+                "158"
+            ],
+            [
+                "χρή, impf. χρῆν or ἐχρῆν, infin. χρῆναι",
+                "it is necessary, it is fated, one ought (+infin. or +acc. and infin.)",
+                "è necessario, è destino, uno dovrebbe (+infin. o +acc. e infin.)",
+                "verb: impersonal",
+                "Ethics and Morals",
+                "159"
+            ],
+            [
+                "δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην",
+                "show, point out",
+                "mostrare, puntare",
+                "verb: -μι",
+                "Showing and Finding",
+                "160"
+            ],
+            [
+                "ζῷον ζῴου, τό",
+                "living being, animal",
+                "essere vivente, animale",
+                "noun: 2nd declension",
+                "Animals and Plants",
+                "161"
+            ],
+            [
+                "πρᾶγμα πράγματος, τό",
+                "thing; (pl.) circumstances, affairs, business",
+                "fatto; (pl.) circostanze, affari, business",
+                "noun: 3rd declension consonant stem",
+                "Work and Leisure",
+                "162"
+            ],
+            [
+                "ἐναντίος ἐναντία ἐναντίον",
+                "opposite, facing; opposing",
+                "di fronte, di fronte; opposto",
+                "preposition",
+                "Direction",
+                "163"
+            ],
+            [
+                "τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι (but usu. κεῖμαι instead), ἐτέθην",
+                "to put, place; establish, ordain, institute; put in a certain state",
+                "mettere, porre; stabilire, ordinare, istituire; mettere in un certo stato",
+                "verb: -μι",
+                "Work and Leisure",
+                "164"
+            ],
+            [
+                "εἶδον, 2 aor. of ὁράω, act. infin. ἰδεῖν, mid.infin. ἰδέσθαι",
+                "I saw",
+                "io ho visto",
+                "verb: irregular",
+                "The Senses and Feelings",
+                "165"
+            ],
+            [
+                "χείρ χειρός, ἡ",
+                "hand",
+                "mano",
+                "noun: 3rd declension consonant stem",
+                "Body Parts",
+                "166"
+            ],
+            [
+                "μηδέ",
+                "and not",
+                "e non",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "167"
+            ],
+            [
+                "ὀλίγος ὀλίγη ὀλίγον",
+                "little, small, few",
+                "piccolo, piccolo, pochi",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "168"
+            ],
+            [
+                "νόμος νόμου, ὁ",
+                "custom, tradition, law",
+                "costume, tradizione, legge",
+                "noun: 2nd declension",
+                "Law and Judgment",
+                "169"
+            ],
+            [
+                "κοινός –ή –όν",
+                "common, shared, mutual",
+                "comune, condiviso, reciproco",
+                "adjective: 1st and 2nd declension",
+                "Government and Society",
+                "170"
+            ],
+            [
+                "οἴομαι or οἶμαι, οἰήσομαι, impf. ᾤμην, aor. ᾠήθην",
+                "think, suppose, imagine (+acc. and infin.)",
+                "pensare, supporre, immaginare (+acc. e infin.)",
+                "verb: deponent",
+                "The Mind, Perceiving and Learning",
+                "171"
+            ],
+            [
+                "κινέω, κινήσω, ἐκίνησα, κεκίνηκα, κεκίνημαι, ἐκινήθην",
+                "set in motion, move, rouse",
+                "essere in movimento, muoversi, spostarsi",
+                "verb: contracted",
+                "Movement",
+                "172"
+            ],
+            [
+                "πάσχω, πείσομαι, ἔπαθον, πέπονθα",
+                "suffer, experience, be affected in a certain way (+adv.)",
+                "soffrire, provare, essere interessato in un certo modo (+avv.)",
+                "verb: -ω palatal stem",
+                "Life and Death",
+                "173"
+            ],
+            [
+                "πῶς",
+                "how?",
+                "come?",
+                "adverb",
+                "Pronouns/Interrogatives",
+                "174"
+            ],
+            [
+                "ὅσπερ ἥπερ ὅπερ",
+                "the very one who, the very thing which",
+                "proprio colui che, proprio la cosa che",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "175"
+            ],
+            [
+                "τοσοῦτος –αύτη –οῦτο(ν)",
+                "so large, so much",
+                "così grande, così tanto",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "176"
+            ],
+            [
+                "σύν",
+                "with (+ dat. of accompaniment or means)",
+                "con (+ dat. di accompagnamento o mezzi)",
+                "preposition",
+                "Prepositions without Direction",
+                "177"
+            ],
+            [
+                "εἶτα",
+                "then, next",
+                "poi, dopo",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "178"
+            ],
+            [
+                "ἀληθής –ές",
+                "truth",
+                "verità",
+                "adjective: 3rd declension -ης, -ες",
+                "Ethics and Morals",
+                "179"
+            ],
+            [
+                "δίκαιος δικαία δίκαιον",
+                "right, just",
+                "vero, giusto",
+                "adjective: 1st and 2nd declension",
+                "Law and Judgment",
+                "180"
+            ],
+            [
+                "μέλλω, μελλήσω, ἐμέλλησα",
+                "(+infin.) think of doing, intend to, be about to",
+                "(+infin.) pensi di fare, intendono, stare per parlare",
+                "verb: -ω liquid stem",
+                "The Senses and Feelings",
+                "181"
+            ],
+            [
+                "ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα",
+                "(+infin.) wish (to); be willing (to)",
+                "(+infin.) desidera (a); essere pronto (a)",
+                "verb: -ω liquid stem",
+                "The Senses and Feelings",
+                "182"
+            ],
+            [
+                "λοιπός –ή –όν",
+                "rest, remaining, rest-of-the",
+                "il resto, rimanente, il resto di",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "183"
+            ],
+            [
+                "ἀνάγκη ἀνάγκης, ἡ",
+                "necessity",
+                "necessità",
+                "noun: 1st declension",
+                "World Order",
+                "184"
+            ],
+            [
+                "ὅτε",
+                "when, whenever (+indic. or opt.)",
+                "quando, quando (+ indica o opt)",
+                "conjunction: subordinating",
+                "Time",
+                "185"
+            ],
+            [
+                "δεύτερος –α –ον",
+                "second",
+                "secondo",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "186"
+            ],
+            [
+                "πόλεμος πολέμου ὁ",
+                "war",
+                "guerra",
+                "noun: 2nd declension",
+                "War and Peace",
+                "187"
+            ],
+            [
+                "χώρα χώρας, ἡ",
+                "land; place",
+                "territorio; spazio",
+                "noun: 1st declension",
+                "Earth",
+                "188"
+            ],
+            [
+                "ζάω, ζήσω, ἔζησα, ἔζηκα",
+                "live",
+                "vivere",
+                "verb: contracted",
+                "Life and Death",
+                "189"
+            ],
+            [
+                "πλῆθος πλήθους, τό",
+                "mass, throng, crowd; number",
+                "massa, folla, folla; numero",
+                "noun: 3rd declension σ-stem",
+                "Government and Society",
+                "190"
+            ],
+            [
+                "ἥλιος ἡλίου, ὁ",
+                "sun",
+                "sole",
+                "noun: 2nd declension",
+                "World Order",
+                "191"
+            ],
+            [
+                "αἰτία αἰτίας, ἡ",
+                "cause, origin; charge, accusation",
+                "causa, origine; carica, accusa",
+                "noun: 1st declension",
+                "Law and Judgment",
+                "192"
+            ],
+            [
+                "πείθω, πείσω, ἔπεισα, πέποιθα, πέπεισμαι, ἐπείσθην",
+                "persuade, win over; (mid. and pass.) obey, believe in, trust in (+dat.)",
+                "persuadere, conquistare; (medio e passivo) obbedire, credere, fiducia in (+dat.)",
+                "verb: -ω dental stem",
+                "Writing and Talking",
+                "193"
+            ],
+            [
+                "πάρειμι",
+                "be present, be ready or at hand; (impers.) πάρεστί μοι it depends on me, it is in my power; τὰ παρόντα the present circumstances; τὸ παρόν just now",
+                "essere presente, essere pronto o a portata di mano; (impers.) πάρεστί μοι è in mio potere; τὰ παρόντα le circostanze presenti; τὸ παρόν solo ora",
+                "verb: irregular",
+                "Humanity and Being",
+                "194"
+            ],
+            [
+                "πλεῖστος πλείστη πλεῖστον",
+                "most, greatest, largest (superl. of πολύς)",
+                "la maggior parte, la più grande, la più grande (superl. di πολύς)",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "195"
+            ],
+            [
+                "εἶδος εἴδους, τό",
+                "form, shape, figure; class, kind, sort",
+                "forma, aspetto, figura; classe, gentile, specie",
+                "noun: 3rd declension σ-stem",
+                "Measurements and Numerals",
+                "196"
+            ],
+            [
+                "ὅπως",
+                "how, as; so that, in order that (+subj. or opt.)",
+                "come, come; in modo che, in ordine (+sugg. o opt.)",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "197"
+            ],
+            [
+                "τρεῖς τρία",
+                "three",
+                "tre",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "198"
+            ],
+            [
+                "βίος βίου, ὁ",
+                "life",
+                "vita",
+                "noun: 2nd declension",
+                "Life and Death",
+                "199"
+            ],
+            [
+                "νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην",
+                "think, believe that (+acc. and infin.); hold as a custom, be accustomed to (+infin.)",
+                "credere, credere che (+acc. e infin.); tenere come abitudine, essere abituati a (+infin.)",
+                "verb: -ω dental stem",
+                "The Mind, Perceiving and Learning",
+                "200"
+            ],
+            [
+                "κύκλος κύκλου, ὁ",
+                "circle, ring, orb, disc, circular motion",
+                "cerchio, anello, globo, disco, movimento circolare",
+                "noun: 2nd declension",
+                "Measurements and Numerals",
+                "201"
+            ],
+            [
+                "πάθος πάθους, τό",
+                "incident, accident, misfortune, experience; passion, emotion; state, condition",
+                "incidente, incidente, disgrazia, esperienza; passione, emozione; stato, condizione",
+                "noun: 3rd declension σ-stem",
+                "The Senses and Feelings",
+                "202"
+            ],
+            [
+                "πρό",
+                "before, in front of (+gen.)",
+                "prima, avanti (+gen.)",
+                "preposition",
+                "Time",
+                "203"
+            ],
+            [
+                "μέντοι",
+                "however; of course",
+                "però; ovviamente",
+                "adverb",
+                "Particles",
+                "204"
+            ],
+            [
+                "ὀνομάζω, ὀνομάσω, ὠνόμασα, ὠνόμακα, ὠνόμασμαι, ὠνομάσθην",
+                "call by name",
+                "chiamare per nome",
+                "verb: -ω dental stem",
+                "Writing and Talking",
+                "205"
+            ],
+            [
+                "ὑμέτερος ὑμετέρα ὑμέτερον",
+                "your, yours (pl.; σός = sg.)",
+                "vostro (pl.; σός = sg.)",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "206"
+            ],
+            [
+                "ἀρετή ἀρετῆς, ἡ",
+                "goodness, excellence; virtue; valor, bravery",
+                "bontà, eccellenza; virtù; valore, coraggio",
+                "noun: 1st declension",
+                "Ethics and Morals",
+                "207"
+            ],
+            [
+                "ἔτος ἔτους, τό",
+                "year",
+                "anno",
+                "noun: 3rd declension σ-stem",
+                "Time",
+                "208"
+            ],
+            [
+                "ἀντί",
+                "opposite (+gen.)",
+                "di fronte (+gen.)",
+                "preposition",
+                "Direction",
+                "209"
+            ],
+            [
+                "ναῦς νεώς, ἡ",
+                "ship",
+                "nave",
+                "noun: 3rd declension irregular",
+                "Work and Leisure",
+                "210"
+            ],
+            [
+                "τρίτος –η –ον",
+                "third",
+                "terzo",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "211"
+            ],
+            [
+                "πνεῦμα πνεύματος, τό",
+                "wind, breath, spirit",
+                "vento, respiro, spirito",
+                "noun: 3rd declension consonant stem",
+                "Earth",
+                "212"
+            ],
+            [
+                "ὀρθός –ή –όν",
+                "upright, straight, true, regular",
+                "dritto, dritto, vero, regolare",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "213"
+            ],
+            [
+                "θάλασσα θαλάσσης, ἡ",
+                "the sea",
+                "mare",
+                "noun: 1st declension",
+                "Earth",
+                "214"
+            ],
+            [
+                "διαφέρω, διοίσω, 1 aor. διήνεγκα, 2 aor. διήνεγκον, διενήνοχα, διενήνεγμαι",
+                "carry in different ways, spread; differ; (impers.) διαφέρει it makes a difference to (+dat.)",
+                "trasportare in modi diversi, diffondersi; differire; (Impers.) διαφέρει fa una differenza a (+ dat.)",
+                "verb: -ω liquid stem",
+                "Work and Leisure",
+                "215"
+            ],
+            [
+                "μέχρι (+gen.)",
+                "until; (prep.) as far as, up to (+gen.)",
+                "fino a; (prep.) fino a (+gen.)",
+                "conjunction: subordinating",
+                "Time",
+                "216"
+            ],
+            [
+                "δόξα δόξης, ἡ",
+                "opinion, judgment; reputation, honor, glory",
+                "opinione, giudizio; reputazione, onore, gloria",
+                "noun: 1st declension",
+                "Ethics and Morals",
+                "217"
+            ],
+            [
+                "κεφαλή –ῆς, ἡ",
+                "head",
+                "testa",
+                "noun: 1st declension",
+                "Body Parts",
+                "218"
+            ],
+            [
+                "πῦρ πυρός, τό",
+                "fire",
+                "fuoco",
+                "noun: 3rd declension consonant stem",
+                "World Order",
+                "219"
+            ],
+            [
+                "ἐλάσσων ἔλασσον",
+                "smaller, less, fewer (comp. of μικρός)",
+                "più piccolo, meno, meno (comp. di μικρός)",
+                "adjective: 3rd declension -ων, -ον",
+                "Measurements and Numerals",
+                "220"
+            ],
+            [
+                "πούς ποδός, ὁ",
+                "foot",
+                "piede",
+                "noun: 3rd declension consonant stem",
+                "Body Parts",
+                "221"
+            ],
+            [
+                "ἱερός –ά –όν",
+                "holy, venerated, divine",
+                "santo, venerato, divino",
+                "adjective: 1st and 2nd declension",
+                "Religion",
+                "222"
+            ],
+            [
+                "εὐθύς εὐθεῖα εὐθύ",
+                "straight, direct; (adv.) immediately",
+                "dritto, diretto; (avv.) immediatamente",
+                "adjective: -ύς, -εῖα, -ύ",
+                "Measurements and Numerals",
+                "223"
+            ],
+            [
+                "εἶμι, infin. ἰέναι, ptc. ἰών, ἰοῦσα, ἰόν",
+                "I will go (fut. of ἔρχομαι)",
+                "andare; Io andrò (future di ἔρχομαι)",
+                "verb: -μι",
+                "Movement",
+                "224"
+            ],
+            [
+                "ταχύς ταχεῖα ταχύ",
+                "quick, fast; (adv.) τάχα quickly; perhaps",
+                "veloce, veloce; (avv.) τάχα rapidamente; Forse",
+                "adjective: -ύς, -εῖα, -ύ",
+                "Characteristics",
+                "225"
+            ],
+            [
+                "ποταμός –οῦ, ὁ",
+                "river, stream",
+                "fiume, torrente",
+                "noun: 2nd declension",
+                "Earth",
+                "226"
+            ],
+            [
+                "οὐσία οὐσίας, ἡ",
+                "substance, property; essence",
+                "sostanza, proprietà; essenza",
+                "noun: 1st declension",
+                "Family and Friendship and the Home",
+                "227"
+            ],
+            [
+                "ἀριθμός –οῦ, ὁ",
+                "number",
+                "numero",
+                "noun: 2nd declension",
+                "Measurements and Numerals",
+                "228"
+            ],
+            [
+                "ὕστερος ὑστέρα ὕστερον",
+                "coming after, following (+gen.); next, later; (adv.) ὕστερον afterwards",
+                "venendo dopo, seguendo (+ gen.); dopo, più tardi; (avv.) ὕστερον in seguito",
+                "adjective: 1st and 2nd declension",
+                "Direction",
+                "229"
+            ],
+            [
+                "φυλάσσω, φυλάξω, ἐφύλαξα, πεφύλαχα, πεφύλαγμαι, ἐφυλάχθην",
+                "watch, guard, defend; (mid.) be on one’s guard against (+acc.)",
+                "guardare, difendere; (medio) essere in guardia contro (+acc.)",
+                "verb: -ω palatal stem",
+                "War and Peace",
+                "230"
+            ],
+            [
+                "καιρός καιροῦ, ὁ",
+                "the right time",
+                "Il momento giusto",
+                "noun: 2nd declension",
+                "Time",
+                "231"
+            ],
+            [
+                "οἰκέω, οἰκήσω, ᾤκησα, ᾤκηκα, ᾠκήθην",
+                "inhabit, occupy",
+                "abitare, occupare",
+                "verb: contracted",
+                "Family and Friendship and the Home",
+                "232"
+            ],
+            [
+                "ἀμφότερος ἀμφοτέρα ἀμφότερον",
+                "both",
+                "entrambi",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "233"
+            ],
+            [
+                "σημεῖον σημείου, τό",
+                "sign, signal, mark",
+                "segno, segnale",
+                "noun: 2nd declension",
+                "Showing and Finding",
+                "234"
+            ],
+            [
+                "παρέχω, παρέξω, παρέσχον, παρέσχηκα, impf. παρεῖχον",
+                "provide, present, offer; allow, grant",
+                "fornire, presentare, offrire; consentire, concedere",
+                "verb: -ω palatal stem",
+                "Taking and Giving",
+                "235"
+            ],
+            [
+                "ἑκάτερος ἑκατέρα ἑκάτερον",
+                "each (of two)",
+                "ciascuno (di due)",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "236"
+            ],
+            [
+                "δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, ἐδηλώθην",
+                "show, declare, explain",
+                "mostrare, dichiarare, spiegare",
+                "verb: contracted",
+                "Showing and Finding",
+                "237"
+            ],
+            [
+                "οἰκεῖος οἰκεία οἰκεῖον",
+                "domestic, of the house; one’s own; fitting, suitable",
+                "domestico, della casa; il proprio; adatto, adatto",
+                "adjective: 1st and 2nd declension",
+                "Family and Friendship and the Home",
+                "238"
+            ],
+            [
+                "κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην",
+                "order, bid, command (+acc. and infin.)",
+                "ordine, offerta, comando (+ acc. e infin.)",
+                "verb: -ω vowel stem",
+                "Law and Judgment",
+                "239"
+            ],
+            [
+                "τέλος τέλους, τό",
+                "end, fulfillment, achievement",
+                "fine, realizzazione, compimento",
+                "noun: 3rd declension σ-stem",
+                "Life and Death",
+                "240"
+            ],
+            [
+                "ἡγέομαι, ἡγήσομαι, ἡγησάμην, ἥγημαι",
+                "lead, be the leader; regard, believe, think",
+                "guidare, essere il capo; considerare, credere, pensare",
+                "verb: deponent",
+                "The Mind, Perceiving and Learning",
+                "241"
+            ],
+            [
+                "ἄξιος ἀξία ἄξιον",
+                "worthy, deserving",
+                "degno, meritevole",
+                "adjective: 1st and 2nd declension",
+                "Ethics and Morals",
+                "242"
+            ],
+            [
+                "ἦ",
+                "truly (emphasizes what follows)",
+                "veramente (sottolinea ciò che segue)",
+                "adverb",
+                "Particles",
+                "243"
+            ],
+            [
+                "δῆλος δήλη δῆλον",
+                "visible, clear, manifest",
+                "visibile, chiaro, manifesto",
+                "adjective: 1st and 2nd declension",
+                "Showing and Finding",
+                "244"
+            ],
+            [
+                "τοίνυν (τοί-νυν)",
+                "therefore, accordingly (inferential); further, moreover (transitional)",
+                "quindi, di conseguenza (inferenziale); inoltre, inoltre (transitorio)",
+                "adverb",
+                "Particles",
+                "245"
+            ],
+            [
+                "πολέμιος πολεμία πολέμιον",
+                "hostile; οἱ πολέμιοι the enemy",
+                "ostile; o πολέμιοι il nemico",
+                "adjective: 1st and 2nd declension",
+                "War and Peace",
+                "246"
+            ],
+            [
+                "ἔρομαι, ἐρήσομαι, 2 aor. ἠρόμην",
+                "ask, ask one about (+double acc.)",
+                "chiedere, chiedere a uno su (+doppio acc.)",
+                "verb: deponent",
+                "Writing and Talking",
+                "247"
+            ],
+            [
+                "ἀδελφός –οῦ, ὁ",
+                "brother",
+                "fratello",
+                "noun: 2nd declension",
+                "Family and Friendship and the Home",
+                "248"
+            ],
+            [
+                "μέγεθος μεγέθους, τό",
+                "greatness, size, magnitude",
+                "grandezza, dimensione, grandezza",
+                "noun: 3rd declension σ-stem",
+                "Measurements and Numerals",
+                "249"
+            ],
+            [
+                "εἴτε…εἴτε",
+                "whether…or",
+                "se… o",
+                "conjunction: coordinating",
+                "Conjunctions/Adverbs",
+                "250"
+            ],
+            [
+                "κεῖμαι, κείσομαι",
+                "to lie, be situated, be laid up in store, be set up, be established or ordained (used as pf. pass. of τίθημι)",
+                "mentire, essere posto, essere messo in negozio, essere istituito, stabilito o ordinato (usato come pf. Pass. Di τίθημι)",
+                "verb: deponent",
+                "Work and Leisure",
+                "251"
+            ],
+            [
+                "πολλάκις",
+                "often",
+                "spesso",
+                "adverb",
+                "Time",
+                "252"
+            ],
+            [
+                "πίνω, πίομαι, 2 aor. ἔπιον, πέπωκα, -πέπομαι, -επόθην",
+                "drink",
+                "bere",
+                "verb: -ω liquid stem",
+                "The Senses and Feelings",
+                "253"
+            ],
+            [
+                "χάρις χάριτος, ἡ",
+                "splendor, honor, glory; favor, goodwill, gratitude, thanks",
+                "splendore, onore, gloria; favore, benevolenza, gratitudine, grazie",
+                "noun: 3rd declension consonant stem",
+                "Ethics and Morals",
+                "254"
+            ],
+            [
+                "ἔπειτα",
+                "then, next",
+                "poi, dopo",
+                "adverb",
+                "Time",
+                "255"
+            ],
+            [
+                "ζητέω, ζητήσω, ἐζήτησα, ἐζήτηκα",
+                "seek",
+                "cercare",
+                "verb: contracted",
+                "Showing and Finding",
+                "256"
+            ],
+            [
+                "σχῆμα σχήματος, τό",
+                "form, figure, appearance, character",
+                "forma, figura, aspetto, carattere, figure, appearance, character",
+                "noun: 3rd declension consonant stem",
+                "Measurements and Numerals",
+                "257"
+            ],
+            [
+                "τροφή τροφῆς, ἡ",
+                "nourishment, food",
+                "nutrimento, cibo",
+                "noun: 1st declension",
+                "Life and Death",
+                "258"
+            ],
+            [
+                "μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα",
+                "learn, ascertain",
+                "imparare, accertare",
+                "verb: -ω liquid stem",
+                "The Mind, Perceiving and Learning",
+                "259"
+            ],
+            [
+                "ἐνταῦθα",
+                "here, there",
+                "qui, là",
+                "adverb",
+                "Direction",
+                "260"
+            ],
+            [
+                "φεύγω, φεύξομαι, ἔφυγον, πέφευγα",
+                "flee, run away, avoid, shun",
+                "fuggire, andare via, evitare, sparire",
+                "verb: -ω palatal stem",
+                "Movement",
+                "261"
+            ],
+            [
+                "ἵππος ἵππου, ὁ",
+                "horse",
+                "cavallo",
+                "noun: 2nd declension",
+                "Animals and Plants",
+                "262"
+            ],
+            [
+                "κόσμος κόσμου, ὁ",
+                "order; ornament, decoration, adornment; world, universe",
+                "ordine; ornamento, decorazione, ornamento; mondo, universo",
+                "noun: 2nd declension",
+                "World Order",
+                "263"
+            ],
+            [
+                "αἷμα αἵματος, τό",
+                "blood",
+                "sangue",
+                "noun: 3rd declension consonant stem",
+                "Body Parts",
+                "264"
+            ],
+            [
+                "αἱρέω, αἱρήσω, 2 aor. εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην",
+                "take, grasp, take by force; (mid.) choose",
+                "prendere, afferrare, prendere con forza; (medio) scegliere",
+                "verb: contracted",
+                "Taking and Giving",
+                "265"
+            ],
+            [
+                "προστίθημι, προσθήσω, προσέθηκα, προστέθηκα, προστέθειμαι (but commonly προσκεῖμαι instead), προσετέθην",
+                "add; (med.) join",
+                "inserire; (medio) unire",
+                "verb: -μι",
+                "Taking and Giving",
+                "266"
+            ],
+            [
+                "ἀξιόω, ἀξιώσω, ἠξίωσα, ἠξίωκα, ἠξίωμαι, ἠξιώθην",
+                "consider worthy; require, demand, ask, claim",
+                "considerare degni; richiedere, domandare, chiedere, rivendicare",
+                "verb: contracted",
+                "Ethics and Morals",
+                "267"
+            ],
+            [
+                "ἕως",
+                "until; while, so long as",
+                "fino a; mentre, a patto che",
+                "conjunction: subordinating",
+                "Time",
+                "268"
+            ],
+            [
+                "νέος νέα νέον",
+                "young, new, fresh",
+                "giovane, nuovo, fresco",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "269"
+            ],
+            [
+                "ἔοικα, ptc. εἰκώς",
+                "be like, look like (+dat.); seem; befit",
+                "essere come, assomigliare a (+dat.); sembrare; convenire",
+                "verb: irregular",
+                "Characteristics",
+                "270"
+            ],
+            [
+                "κἄν (καὶ-ἄν)",
+                "even if (+subj.)",
+                "anche se (+ sugg.)",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "271"
+            ],
+            [
+                "καθίστημι, καταστήσω, κατέστησα, κατέστην, καθέστηκα, plupf. καθειστήκη, κατεστάθην",
+                "set down, establish; bring into a certain state, render",
+                "mandare giù, stabilire; mettere o fare entrare in una certa condizione o un certo stato",
+                "verb: -μι",
+                "Work and Leisure",
+                "272"
+            ],
+            [
+                "τέχνη τέχνης, ἡ",
+                "art, skill, craft",
+                "arte, abilità, mestiere",
+                "noun: 1st declension",
+                "Government and Society",
+                "273"
+            ],
+            [
+                "χρῆμα χρήματος, τό",
+                "thing, matter; (more commonly in pl.) goods or property, esp. money",
+                "cosa, importa; (più comunemente in pl.) beni o proprietà, in particolare i soldi",
+                "noun: 3rd declension consonant stem",
+                "Government and Society",
+                "274"
+            ],
+            [
+                "σῴζω, σώσω, ἔσωσα, σέσωκα, ἐσώθην",
+                "save",
+                "salvare",
+                "verb: -ω dental stem",
+                "Help and Safety",
+                "275"
+            ],
+            [
+                "πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην",
+                "send",
+                "inviare",
+                "verb: -ω labial stem",
+                "Movement",
+                "276"
+            ],
+            [
+                "φωνή φωνῆς, ἡ",
+                "sound, voice",
+                "suono, voce",
+                "noun: 1st declension",
+                "The Senses and Feelings",
+                "277"
+            ],
+            [
+                "ἕνεκα",
+                "on account of, for the sake of (+gen.)",
+                "a causa di, per (+ gen.)",
+                "preposition",
+                "Prepositions without Direction",
+                "278"
+            ],
+            [
+                "ἀπόλλυμι, ἀπολῶ, ἀπώλεσα, 2 aor. mid. ἀπωλόμην, pf. ἀπολώλεκα (“I have utterly destroyed”) or ἀπόλωλα (“I am undone”)",
+                "kill, destroy; (mid.) perish, die",
+                "uccidere, distruggere; (medio) perire, morire",
+                "verb: -μι",
+                "Life and Death",
+                "279"
+            ],
+            [
+                "θάνατος θανάτου, ὁ",
+                "death",
+                "morte",
+                "noun: 2nd declension",
+                "Life and Death",
+                "280"
+            ],
+            [
+                "νύξ νυκτός, ἡ",
+                "night",
+                "notte",
+                "noun: 3rd declension consonant stem",
+                "World Order",
+                "281"
+            ],
+            [
+                "ὁδός ὁδοῦ, ἡ",
+                "road, way, path",
+                "strada, strada, sentiero",
+                "noun: 2nd declension",
+                "Government and Society",
+                "282"
+            ],
+            [
+                "ἔθνος ἔθνους, τό",
+                "nation",
+                "nazione",
+                "noun: 3rd declension σ-stem",
+                "Government and Society",
+                "283"
+            ],
+            [
+                "ἀποδίδωμι, ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην",
+                "give back; render; allow; (mid.) sell",
+                "restituire; rendere; permettere; (medio) vendere",
+                "verb: -μι",
+                "Taking and Giving",
+                "284"
+            ],
+            [
+                "νοῦς (νόος), νοῦ (νόου), ὁ",
+                "mind, perception, sense",
+                "mente, percezione, senso",
+                "noun: 2nd declension",
+                "The Mind, Perceiving and Learning",
+                "285"
+            ],
+            [
+                "μένω, μενῶ, ἔμεινα, μεμένηκα",
+                "stay, remain, endure, await",
+                "rimanere, rimanere, sopportare, attendere",
+                "verb: -ω liquid stem",
+                "Movement",
+                "286"
+            ],
+            [
+                "ἀποθνῄσκω, ἀποθανοῦμαι, 2 aor. ἀπέθανον, ἀποτέθνηκα",
+                "die",
+                "morire",
+                "verb: -ω palatal stem",
+                "Life and Death",
+                "287"
+            ],
+            [
+                "πάνυ",
+                "altogether, entirely",
+                "del tutto, interamente",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "288"
+            ],
+            [
+                "εὖ",
+                "well (opp. κακῶς); thoroughly, competently; happily, fortunately",
+                "bene (opp. κακῶς); completamente, con competenza; felicemente, per fortuna",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "289"
+            ],
+            [
+                "κρίνω, κρινῶ, ἔκρινα, κέκρικα, κέκριμαι, ἐκρίθην",
+                "judge, decide, determine",
+                "giudicare, decidere, determinare",
+                "verb: -ω liquid stem",
+                "Law and Judgment",
+                "290"
+            ],
+            [
+                "ἀναιρέω, ἀναιρήσω, ἀνεῖλον, ἀνῄρηκα, ἀνῄρημαι, ἀνῃρέθην",
+                "raise, take up; kill, destroy",
+                "sollevare, prendere; uccidere, distruggere",
+                "verb: contracted",
+                "War and Peace",
+                "291"
+            ],
+            [
+                "μακρός –ά –όν",
+                "long, tall, large, long-lasting",
+                "lungo, alto, largo, di lunga durata",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "292"
+            ],
+            [
+                "ἥκω, ἥξω, pf. ἧκα",
+                "I have come, I am present",
+                "Io sono venuto, sono presente",
+                "verb: -ω palatal stem",
+                "Movement",
+                "293"
+            ],
+            [
+                "ἡδονή –ῆς, ἡ",
+                "pleasure, enjoyment",
+                "piacere, divertimento",
+                "noun: 1st declension",
+                "Work and Leisure",
+                "294"
+            ],
+            [
+                "μήτηρ μητρός, ἡ",
+                "mother",
+                "mamma",
+                "noun: 3rd declension irregular",
+                "Family and Friendship and the Home",
+                "295"
+            ],
+            [
+                "δεινός –ή –όν",
+                "awesome, terrible; clever, clever at (+infin.)",
+                "fantastico, terribile; intelligente, intelligente a (+ infin.)",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "296"
+            ],
+            [
+                "διαφορά –ᾶς, ἡ",
+                "difference, disagreement",
+                "differenza, disaccordo",
+                "noun: 1st declension",
+                "Law and Judgment",
+                "297"
+            ],
+            [
+                "κρατέω, κρατήσω, ἐκράτησα, κεκράτηκα, κεκράτημαι, ἐκρατήθην",
+                "be victorious, conquer, rule, surpass, excel (+gen.)",
+                "essere vittorioso, conquistare, regolare, superare, eccellere (+gen.)",
+                "verb: contracted",
+                "Government and Society",
+                "298"
+            ],
+            [
+                "δῆμος δήμου, ὁ",
+                "the (common) people; country district (opp. πόλις)",
+                "le persone (comuni); country district (opp. πόλις)",
+                "noun: 2nd declension",
+                "Humanity and Being",
+                "299"
+            ],
+            [
+                "οὐρανός –οῦ, ὁ",
+                "sky, heaven",
+                "cielo",
+                "noun: 2nd declension",
+                "World Order",
+                "300"
+            ],
+            [
+                "ἕπομαι ἕψομαι, 2 aor. ἑσπόμην",
+                "follow",
+                "seguire",
+                "verb: deponent",
+                "Movement",
+                "301"
+            ],
+            [
+                "ἥσσων ἧσσον",
+                "less, weaker (comp. of κακός or μικρός)",
+                "inferiore, minore, più debole (comp. di κακός o μικρός)",
+                "adjective: 3rd declension -ων, -ον",
+                "Characteristics",
+                "302"
+            ],
+            [
+                "ὄρος ὄρους, τό",
+                "mountain, hill",
+                "montagna, collina",
+                "noun: 3rd declension σ-stem",
+                "Earth",
+                "303"
+            ],
+            [
+                "πλήν",
+                "(prep.) except (+gen.); (conj.) except that, unless, but",
+                "(prep.) tranne (+ gen.); (cong.) tranne che, a meno che, ma",
+                "preposition",
+                "Prepositions without Direction",
+                "304"
+            ],
+            [
+                "τέτταρες τέτταρα",
+                "four",
+                "quattro",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "305"
+            ],
+            [
+                "δυνατός –ή –όν",
+                "strong, powerful, able",
+                "forte, potente, capace",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "306"
+            ],
+            [
+                "οἶκος οἴκου, ὁ",
+                "house, home, family",
+                "casa, famiglia",
+                "noun: 2nd declension",
+                "Family and Friendship and the Home",
+                "307"
+            ],
+            [
+                "ἄριστος ἀρίστη ἄριστον",
+                "best, noblest (superl. of ἀγαθός)",
+                "migliore, più nobile (superl di ἀγαθός)",
+                "adjective: 1st and 2nd declension",
+                "Ethics and Morals",
+                "308"
+            ],
+            [
+                "ῥᾴδιος ῥᾳδία ῥᾴδιον",
+                "easy",
+                "facile",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "309"
+            ],
+            [
+                "ἀφαιρέω, ἀφαιρήσω, ἀφεῖλον, ἀφῄρηκα, ἀφῄρημαι, ἀφῃρέθην",
+                "take from, take away",
+                "prendere da, portare via",
+                "verb: contracted",
+                "Taking and Giving",
+                "310"
+            ],
+            [
+                "τύχη τύχης, ἡ",
+                "luck, fortune (good or bad), fate, chance",
+                "fortuna, fortuna (buona o cattiva), destino, possibilità",
+                "noun: 1st declension",
+                "Life and Death",
+                "311"
+            ],
+            [
+                "φανερός –ά –όν",
+                "clear, evident",
+                "chiaro, evidente",
+                "adjective: 1st and 2nd declension",
+                "The Senses and Feelings",
+                "312"
+            ],
+            [
+                "πρόσωπον προσώπου, τό",
+                "face, mask, person",
+                "faccia, maschera, persona",
+                "noun: 2nd declension",
+                "Body Parts",
+                "313"
+            ],
+            [
+                "πιστεύω, πιστεύσω, ἐπίστευσα, πεπίστευκα, πεπίστευμαι, ἐπιστεύθην",
+                "trust, rely on, believe in (+dat.)",
+                "fidarsi, affidarsi su, credere in (+ dat.)",
+                "verb: -ω vowel stem",
+                "The Senses and Feelings",
+                "314"
+            ],
+            [
+                "διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην",
+                "teach",
+                "insegnare",
+                "verb: -ω palatal stem",
+                "The Mind, Perceiving and Learning",
+                "315"
+            ],
+            [
+                "ἄνω",
+                "up, upwards",
+                "su, verso l'alto",
+                "adverb",
+                "Direction",
+                "316"
+            ],
+            [
+                "τάσσω, τάξω, ἔταξα, τέταχα, τέταγμαι, ἐτάχθην",
+                "arrange, put in order",
+                "organizzare, mettere in ordine",
+                "verb: -ω palatal stem",
+                "Government and Society",
+                "317"
+            ],
+            [
+                "ὀφθαλμός –οῦ, ὁ",
+                "eye",
+                "occhio",
+                "noun: 2nd declension",
+                "Body Parts",
+                "318"
+            ],
+            [
+                "δέχομαι, δέξομαι, ἐδεξάμην, δέδεγμαι, -εδέχθην",
+                "take, accept; welcome, entertain",
+                "prendere, accettare; accogliere, intrattenere",
+                "verb: deponent",
+                "Family and Friendship and the Home",
+                "319"
+            ],
+            [
+                "ἀφικνέομαι, ἀφίξομαι, 2 aor. ἀφικόμην, ἀφῖγμαι",
+                "come to, arrive at",
+                "venire, arrivare a",
+                "verb: deponent",
+                "Movement",
+                "320"
+            ],
+            [
+                "ἱκανός –ή –όν",
+                "sufficient, enough; competent, able to (+infin.)",
+                "sufficiente, abbastanza; competente, in grado di (+ infinito)",
+                "adjective: 1st and 2nd declension",
+                "Help and Safety",
+                "321"
+            ],
+            [
+                "ἐργάζομαι, ἐργάσομαι, εἰργασάμην, εἴργασμαι",
+                "work, labor",
+                "lavoro, fatica",
+                "verb: deponent",
+                "Work and Leisure",
+                "322"
+            ],
+            [
+                "μάχη μάχης, ἡ",
+                "battle",
+                "battaglia",
+                "noun: 1st declension",
+                "War and Peace",
+                "323"
+            ],
+            [
+                "τρέφω, θρέψω, ἔθρεψα, τέθραμμαι, ἐτράφην",
+                "nourish, feed, support, maintain; rear, educate",
+                "nutrire, nutrirsi, mantenere, sostenere; allevare, educare",
+                "verb: -ω labial stem",
+                "Life and Death",
+                "324"
+            ],
+            [
+                "ἀδύνατος –ον",
+                "impossible; powerless",
+                "impossibile; impotente",
+                "adjective: 1st and 2nd declension",
+                "Government and Society",
+                "325"
+            ],
+            [
+                "ἀκριβής –ές",
+                "exact, accurate, precise",
+                "esatto, accurato, preciso",
+                "adjective: 3rd declension -ης, -ες",
+                "Measurements and Numerals",
+                "326"
+            ],
+            [
+                "που",
+                "(enclitic) somewhere; I suppose, perhaps (to qualify an assertion)",
+                "(enclitico) da qualche parte; suppongo, forse (per qualificare un'affermazione)",
+                "adverb",
+                "Particles",
+                "327"
+            ],
+            [
+                "ὅθεν",
+                "from where, whence",
+                "da dove",
+                "adverb",
+                "Direction",
+                "328"
+            ],
+            [
+                "στόμα στόματος, τό",
+                "mouth, face, opening",
+                "bocca, faccia, apertura",
+                "noun: 3rd declension consonant stem",
+                "Body Parts",
+                "329"
+            ],
+            [
+                "χωρίς",
+                "separately, apart; (+gen.) without, separate from",
+                "separatamente, a parte; (+ gen.) senza, separato da",
+                "adverb",
+                "Direction",
+                "330"
+            ],
+            [
+                "κρείσσων κρεῖσσον",
+                "stronger, mightier; better, more excellent (comp. of ἀγαθός)",
+                "più forte, più potente; meglio, più eccellente (comp. di ἀγαθός)",
+                "adjective: 3rd declension -ων, -ον",
+                "Characteristics",
+                "331"
+            ],
+            [
+                "βραχύς βραχεῖα βραχύ",
+                "brief, short",
+                "corto, breve",
+                "adjective: -ύς, -εῖα, -ύ",
+                "Characteristics",
+                "332"
+            ],
+            [
+                "ἰσχυρός –ά –όν",
+                "strong",
+                "forte",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "333"
+            ],
+            [
+                "ἀλήθεια ἀληθείας, ἡ",
+                "truth",
+                "verità",
+                "noun: 1st declension",
+                "Ethics and Morals",
+                "334"
+            ],
+            [
+                "δίκη δίκης, ἡ",
+                "justice, lawsuit, trial, penalty",
+                "giustizia, querela, processo, pena",
+                "noun: 1st declension",
+                "Law and Judgment",
+                "335"
+            ],
+            [
+                "χωρίον χωρίου, τό",
+                "place, spot, district",
+                "luogo, quartiere",
+                "noun: 2nd declension",
+                "Earth",
+                "336"
+            ],
+            [
+                "ἡδύς ἡδεῖα ἡδύ",
+                "sweet, pleasant",
+                "dolce, piacevole",
+                "adjective: -ύς, -εῖα, -ύ",
+                "Characteristics",
+                "337"
+            ],
+            [
+                "νόσος νόσου, ὁ",
+                "disease, sickness",
+                "malattia",
+                "noun: 2nd declension",
+                "Life and Death",
+                "338"
+            ],
+            [
+                "λίθος λίθου, ὁ",
+                "stone",
+                "pietra",
+                "noun: 2nd declension",
+                "Earth",
+                "339"
+            ],
+            [
+                "παλαιός –ά –όν",
+                "old, ancient",
+                "vecchio, antico",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "340"
+            ],
+            [
+                "ἀφίημι, ἀφήσω, ἀφῆκα, ἀφεῖκα, ἀφεῖμαι, ἀφείθην",
+                "send away, let go; let alone, neglect",
+                "Inviare via, lasciare andare; non parlare, trascurare",
+                "verb: -μι",
+                "Taking and Giving",
+                "341"
+            ],
+            [
+                "ἄλλως",
+                "otherwise",
+                "altrimenti",
+                "adverb",
+                "Pronouns/Interrogatives",
+                "342"
+            ],
+            [
+                "πρᾶξις πράξεως, ἡ",
+                "action, transaction, business",
+                "azione, transazione, business",
+                "noun: 3rd declension ι-stem",
+                "Work and Leisure",
+                "343"
+            ],
+            [
+                "σαφής σαφές",
+                "clear, distinct, plain",
+                "chiaro, distinto, semplice",
+                "adjective: 3rd declension -ης, -ες",
+                "Showing and Finding",
+                "344"
+            ],
+            [
+                "σοφός –ή –όν",
+                "wise, clever, skilled",
+                "saggio, intelligente, esperto",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "345"
+            ],
+            [
+                "νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην",
+                "conquer, win",
+                "conquistare, vincere",
+                "verb: contracted",
+                "War and Peace",
+                "346"
+            ],
+            [
+                "ὁμολογέω, ὁμολογήσω, ὡμολόγησα, ὡμολόγηκα, ὡμολόγημαι, ὡμολογήθην",
+                "agree with, say the same thing as (+dat.)",
+                "essere d’accordo con, dire la stessa cosa (+dat.)",
+                "verb: contracted",
+                "Law and Judgment",
+                "347"
+            ],
+            [
+                "ναός (νεώς) ναοῦ (νεώ), ὁ",
+                "temple",
+                "tempio",
+                "noun: 2nd declension",
+                "Religion",
+                "348"
+            ],
+            [
+                "αὖ, αὖθις",
+                "moreover; on the other hand; back (again)",
+                "inoltre; d'altra parte; di nuovo indietro)",
+                "adverb",
+                "Particles",
+                "349"
+            ],
+            [
+                "πατρίς πατρίδος, ἡ",
+                "fatherland",
+                "patria",
+                "noun: 3rd declension consonant stem",
+                "Government and Society",
+                "350"
+            ],
+            [
+                "ὀξύς ὀξεῖα ὀξύ",
+                "sharp, keen, shrill, pungent",
+                "acuto, acuto, pungente",
+                "adjective: -ύς, -εῖα, -ύ",
+                "Characteristics",
+                "351"
+            ],
+            [
+                "καίτοι (καί-τοι)",
+                "and indeed, and yet",
+                "e davvero, e già",
+                "adverb",
+                "Particles",
+                "352"
+            ],
+            [
+                "πλέον",
+                "more, rather",
+                "più, piuttosto",
+                "adverb",
+                "Measurements and Numerals",
+                "353"
+            ],
+            [
+                "πλέων πλέον",
+                "more, larger (comp. of πολύς)",
+                "più, più grande (comp. di πολύς)",
+                "adjective: 3rd declension -ων, -ον",
+                "Measurements and Numerals",
+                "354"
+            ],
+            [
+                "γνώμη γνώμης, ἡ",
+                "thought, intelligence, opinion, purpose",
+                "pensiero, intelligenza, opinione, scopo",
+                "noun: 1st declension",
+                "The Mind, Perceiving and Learning",
+                "355"
+            ],
+            [
+                "τιμή τιμῆς, ἡ",
+                "honor, esteem; price, value; office, magistracy",
+                "onore, stima; prezzo, valore; ufficio, magistratura",
+                "noun: 1st declension",
+                "Ethics and Morals",
+                "356"
+            ],
+            [
+                "μεταξύ",
+                "between",
+                "fra",
+                "adverb",
+                "Direction",
+                "357"
+            ],
+            [
+                "προσήκω προσήξω",
+                "belong to, have to do with; be fitting for (+dat.); arrive at; οἱ προσήκοντες relatives; τὰ προσήκoντα duties",
+                "appartenere a, avere a che fare con; essere adatto per (+ dat.); arriva a; οἱ προσήκοντες parenti; τὰ προσήκoντα doveri",
+                "verb: -ω palatal stem",
+                "Ethics and Morals",
+                "358"
+            ],
+            [
+                "πρίν",
+                "before, until",
+                "prima, precedentemente",
+                "conjunction: subordinating",
+                "Time",
+                "359"
+            ],
+            [
+                "ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην",
+                "do wrong; injure",
+                "fare cose sbagliate; commettere ingiustizia",
+                "verb: contracted",
+                "Ethics and Morals",
+                "360"
+            ],
+            [
+                "στρατηγός –οῦ, ὁ",
+                "leader of an army, commander, general",
+                "capo di un esercito, comandante, generale",
+                "noun: 2nd declension",
+                "War and Peace",
+                "361"
+            ],
+            [
+                "οὐκέτι",
+                "no longer, no more",
+                "non più",
+                "adverb",
+                "Time",
+                "362"
+            ],
+            [
+                "πρέσβυς πρέσβεως, ὁ",
+                "old man; (pl.) ambassadors",
+                "vecchio; (pl.) ambasciatori",
+                "noun: 3rd declension -εύς, -έως",
+                "Government and Society",
+                "363"
+            ],
+            [
+                "παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην",
+                "stop, put an end to; (mid.) cease",
+                "fermare, porre fine; (medio) cessa",
+                "verb: -ω vowel stem",
+                "Movement",
+                "364"
+            ],
+            [
+                "τελευτάω, τελευτήσω, ἐτελεύτησα, τετελεύτηκα, τετελεύτημαι, ἐτελευτήθην",
+                "finish; die",
+                "finire; morire",
+                "verb: contracted",
+                "Life and Death",
+                "365"
+            ],
+            [
+                "μίγνυμι, μείξω, ἔμειξα, μέμειγμαι, ἐμείχθην",
+                "mix, mingle",
+                "mischiare, mescolare",
+                "verb: -μι",
+                "Work and Leisure",
+                "366"
+            ],
+            [
+                "λαός λαοῦ, ὁ",
+                "the people, folk",
+                "folla",
+                "noun: 2nd declension",
+                "Humanity and Being",
+                "367"
+            ],
+            [
+                "θυγάτηρ θυγατρός, ἡ",
+                "daughter",
+                "sorella",
+                "noun: 3rd declension irregular",
+                "Family and Friendship and the Home",
+                "368"
+            ],
+            [
+                "οἰκία οἰκίας, ἡ",
+                "building, house, dwelling",
+                "costruzione, casa, dimora",
+                "noun: 1st declension",
+                "Family and Friendship and the Home",
+                "369"
+            ],
+            [
+                "παραδίδωμι, παραδώσω, παρέδωκα, παραδέδωκα, παραδέδομαι, παρεδόθην",
+                "transmit, hand over, surrender",
+                "trasmettere, consegnare",
+                "verb: -μι",
+                "Taking and Giving",
+                "370"
+            ],
+            [
+                "ἔξω",
+                "outside; except",
+                "fuori; eccetto",
+                "adverb",
+                "Direction",
+                "371"
+            ],
+            [
+                "νῆσος νήσου, ἡ",
+                "island",
+                "isola",
+                "noun: 2nd declension",
+                "Earth",
+                "372"
+            ],
+            [
+                "ἐκεῖ",
+                "there",
+                "qui",
+                "adverb",
+                "Direction",
+                "373"
+            ],
+            [
+                "ἐπιστήμη –ης, ἡ",
+                "knowledge, understanding, skill",
+                "conoscenza, comprensione, abilità",
+                "noun: 1st declension",
+                "The Mind, Perceiving and Learning",
+                "374"
+            ],
+            [
+                "ἐάω, ἐάσω, εἴασα",
+                "allow, permit (+acc. and infin.); let be, let alone",
+                "permettere, permettere (acc. e infin.); lasciar essere, lasciar soli",
+                "verb: contracted",
+                "Law and Judgment",
+                "375"
+            ],
+            [
+                "θαυμάζω, θαυμάσομαι, ἐθαύμασα, τεθαύμακα, τεθαύμασμαι, ἐθαυμάσθην",
+                "to be in awe (of), be astonished (at)",
+                "essere in timore (di), essere sorpreso (a)",
+                "verb: -ω dental stem",
+                "The Senses and Feelings",
+                "376"
+            ],
+            [
+                "αἰσθάνομαι, αἰσθήσομαι, 2 aor. ᾐσθόμην, ᾔσθημαι",
+                "perceive, understand, hear, learn",
+                "percepire, capire, udire, imparare",
+                "verb: deponent",
+                "The Mind, Perceiving and Learning",
+                "377"
+            ],
+            [
+                "χαίρω, χαιρήσω, κεχάρηκα, κεχάρημαι, ἐχάρην",
+                "to be happy, rejoice at (+dat.), take joy in (+ptc.); χαῖρε, (pl.) χαίρετε hello, goodbye",
+                "essere felici, di rallegrarmi (+ dat.), di gioire (+ ptc.); Χαῖρε, (pl.) Χαίρετε ciao, ragazzo addio",
+                "verb: -ω liquid stem",
+                "The Senses and Feelings",
+                "378"
+            ],
+            [
+                "χαλεπός –ή –όν",
+                "difficult, troublesome",
+                "difficile, fastidioso",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "379"
+            ],
+            [
+                "τέκνον τέκνου, τό",
+                "child",
+                "figlio",
+                "noun: 2nd declension",
+                "Family and Friendship and the Home",
+                "380"
+            ],
+            [
+                "καταλαμβάνω, καταλήψομαι, κατέλαβον, κατείληφα, κατείλημμαι, κατελήφθην",
+                "seize, catch up with, arrest, compel",
+                "cogliere, ritrovare, arrestare, imporre",
+                "verb: -ω liquid stem",
+                "War and Peace",
+                "381"
+            ],
+            [
+                "μάχομαι, μαχοῦμαι, ἐμαχεσάμην, μεμάχημαι",
+                "fight (against) (+dat.)",
+                "combattere (contro) (+dat.)",
+                "verb: deponent",
+                "War and Peace",
+                "382"
+            ],
+            [
+                "μιμνήσκω, -μνήσω, -έμνησα, pf. μέμνημαι, ἐμνήσθην",
+                "remind; (in pf. mid.) remember",
+                "ricordare; (in pf. Medio) ricordare",
+                "verb: -ω palatal stem",
+                "The Mind, Perceiving and Learning",
+                "383"
+            ],
+            [
+                "θνῄσκω, 2 aor. -έθανον, τέθνηκα, θανοῦμαι",
+                "to die, be dying",
+                "morire, essere moribondo",
+                "verb: -ω palatal stem",
+                "Life and Death",
+                "384"
+            ],
+            [
+                "λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην",
+                "loosen, unbind, set free; undo, destroy",
+                "sciogliere, liberare, liberare; annullare, distruggere",
+                "verb: -ω vowel stem",
+                "War and Peace",
+                "385"
+            ],
+            [
+                "τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην",
+                "to honor",
+                "onorare",
+                "verb: contracted",
+                "Ethics and Morals",
+                "386"
+            ],
+            [
+                "τεῖχος τείχους, τό",
+                "wall",
+                "parete",
+                "noun: 3rd declension σ-stem",
+                "Government and Society",
+                "387"
+            ],
+            [
+                "ἴσως",
+                "equally, probably, perhaps",
+                "ugualmente, probabilmente, forse",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "388"
+            ],
+            [
+                "αἴρω, ἀρῶ, ἦρα, ἦρκα, ἦρμαι, ἤρθην",
+                "take up, lift up; remove",
+                "prendere, sollevare; rimuovi",
+                "verb: -ω palatal stem",
+                "Movement",
+                "389"
+            ],
+            [
+                "ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα, ἀπέκτονα",
+                "kill",
+                "uccidere",
+                "verb: -ω liquid stem",
+                "War and Peace",
+                "390"
+            ],
+            [
+                "στρατιώτης –ου, ὁ",
+                "soldier",
+                "soldato",
+                "noun: 2nd declension",
+                "War and Peace",
+                "391"
+            ],
+            [
+                "ἄνευ",
+                "without (+gen.)",
+                "senza (+gen.)",
+                "preposition",
+                "Prepositions without Direction",
+                "392"
+            ],
+            [
+                "πότερος ποτέρα πότερον",
+                "which of the two? πότερον whether",
+                "quale dei due? πότερον anche se",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "393"
+            ],
+            [
+                "ἁπλῶς",
+                "simply, singly, in one way",
+                "semplicemente, singolarmente, in un modo",
+                "adverb",
+                "Measurements and Numerals",
+                "394"
+            ],
+            [
+                "πίπτω, πεσοῦμαι, ἔπεσον, πέπτωκα",
+                "fall, fall down",
+                "cadere, cadere giù",
+                "verb: -ω dental stem",
+                "War and Peace",
+                "395"
+            ],
+            [
+                "τέταρτος –η –ον",
+                "fourth",
+                "quarto",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "396"
+            ],
+            [
+                "κατασκευάζω, κατασκευάσω, κατεσκεύασα",
+                "equip, furnish, make ready",
+                "dotare, fornire, prepararsi",
+                "verb: -ω dental stem",
+                "Work and Leisure",
+                "397"
+            ],
+            [
+                "ἐχθρός –ά –όν",
+                "hated, hateful; hostile to (+dat.)",
+                "odiato, odioso; ostile a (+ dat.)",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "398"
+            ],
+            [
+                "ἀγών ἀγῶνος, ὁ",
+                "contest; struggle",
+                "concorso; lotta",
+                "noun: 3rd declension consonant stem",
+                "Government and Society",
+                "399"
+            ],
+            [
+                "κωλύω, κωλύσω, ἐκώλυσα, κεκώλυκα, κεκώλυμαι, ἐκωλύθην",
+                "hinder, check, prevent (+acc. and infin.)",
+                "ostacolare, controllare, impedire (+ acc. e infinito)",
+                "verb: -ω vowel stem",
+                "War and Peace",
+                "400"
+            ],
+            [
+                "ἁμαρτάνω, ἁμαρτήσομαι, ἡμάρτησα, 2 aor. ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην",
+                "miss the mark (+gen.); fail, be wrong, make a mistake",
+                "manchi il segno (+ gen.); Fallire, essere sbagliato, fare un errore",
+                "verb: -ω liquid stem",
+                "Ethics and Morals",
+                "401"
+            ],
+            [
+                "διαφθείρω, διαφθερῶ, διέφθειρα, διέφθαρκα, διέφθαρμαι, διεφθάρην",
+                "destroy; corrupt",
+                "distruggere, corrompere",
+                "verb: -ω liquid stem",
+                "War and Peace",
+                "402"
+            ],
+            [
+                "πως",
+                "(enclitic) somehow, in some way, in any way",
+                "(enclitico) in qualche modo, in qualche modo, in qualsiasi modo",
+                "adverb",
+                "Particles",
+                "403"
+            ],
+            [
+                "πόνος πόνου, ὁ",
+                "work, labor; stress, trouble, pain",
+                "lavoro; stress, problemi, dolore",
+                "noun: 2nd declension",
+                "Work and Leisure",
+                "404"
+            ],
+            [
+                "ἔνθα",
+                "there",
+                "là",
+                "adverb",
+                "Direction",
+                "405"
+            ],
+            [
+                "τάξις τάξεως, ἡ",
+                "arrangement, order; military unit",
+                "disposizione, ordine; unità militare",
+                "noun: 3rd declension ι-stem",
+                "War and Peace",
+                "406"
+            ],
+            [
+                "πειράω (usually mid. πειράομαι), πειράσομαι, ἐπείρασα, πεπείραμαι, ἐπειράθην",
+                "attempt, try, make a trial of (+gen.)",
+                "tentare, provare, provare a (+gen.)",
+                "verb: contracted",
+                "Work and Leisure",
+                "407"
+            ],
+            [
+                "φοβέω, φοβήσω, ἐφόβησα, πεφόβημαι, ἐφοβήθην",
+                "put to flight; (mid. and pass.) flee, fear",
+                "mettere in fuga; (medio e pass.) scappare, temere",
+                "verb: contracted",
+                "The Senses and Feelings",
+                "408"
+            ],
+            [
+                "βάλλω, βαλῶ, 2 aor. ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην",
+                "throw, hurl; throw at, hit (acc.) with (dat.)",
+                "buttare, lanciare; Gettare, colpire (acc.) Con il verbo (dat.)",
+                "verb: -ω liquid stem",
+                "Movement",
+                "409"
+            ],
+            [
+                "πονηρός –ά –όν",
+                "worthless, bad, wicked",
+                "senza valore, cattivo, malvagio",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "410"
+            ],
+            [
+                "ξένος ξένου, ὁ",
+                "guest-friend; foreigner, stranger",
+                "guest-amico; straniero, forestiero",
+                "noun: 2nd declension",
+                "Government and Society",
+                "411"
+            ],
+            [
+                "βάρβαρος –ον",
+                "non-Greek, foreign; barbarous",
+                "non greco, straniero; barbaro",
+                "adjective: 1st and 2nd declension",
+                "Government and Society",
+                "412"
+            ],
+            [
+                "ὅπου",
+                "where, wherever",
+                "dove, ovunque",
+                "conjunction: subordinating",
+                "Conjunctions/Adverbs",
+                "413"
+            ],
+            [
+                "συμφέρω, συνοίσω, 1 aor. συνήνεγκα",
+                "benefit, be useful or profitable to (+dat.); (impers.) συμφέρει it is of use, expedient (+infin.); τὸ συμφέρον use, profit, advantage",
+                "beneficiare, essere utile o redditizio a (+dat.); (impers.) συμφέρει è uso, èconveniente (+infin.); τὸ συμφέρον uso, profitto, vantaggio",
+                "verb: irregular",
+                "Help and Safety",
+                "414"
+            ],
+            [
+                "πυνθάνομαι, πεύσομαι, 2 aor. ἐπυθόμην, πέπυσμαι",
+                "learn, hear, inquire concerning (+gen.)",
+                "imparare, ascoltare, chiedere riguardo a (+gen.)",
+                "verb: deponent",
+                "The Mind, Perceiving and Learning",
+                "415"
+            ],
+            [
+                "δοῦλος δούλου, ὁ",
+                "slave",
+                "schiavo",
+                "noun: 2nd declension",
+                "Government and Society",
+                "416"
+            ],
+            [
+                "τέμνω, τεμῶ, 2 aor. ἔτεμον, -τέτμηκα, τέτμημαι, ἐτμήθην",
+                "cut, cut down, cut to pieces",
+                "tagliato, tagliato, tagliato a pezzi",
+                "verb: -ω liquid stem",
+                "War and Peace",
+                "417"
+            ],
+            [
+                "χρήσιμος χρησίμη χρήσιμον",
+                "useful, serviceable",
+                "utile, riparabile",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "418"
+            ],
+            [
+                "ποῖος ποία ποῖον",
+                "what sort of?",
+                "che tipo di?",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "419"
+            ],
+            [
+                "ὅπλον ὅπλου, τό",
+                "weapon, tool, implement (mostly pl.)",
+                "arma, strumento, attrezzo (principalmente pl.)",
+                "noun: 2nd declension",
+                "War and Peace",
+                "420"
+            ],
+            [
+                "πίστις πίστεως, ἡ",
+                "trust in others, faith; that which gives confidence, assurance, pledge, guarantee",
+                "fiducia negli altri, fede; ciò che dà fiducia, sicurezza, impegno, garanzia",
+                "noun: 3rd declension ι-stem",
+                "The Senses and Feelings",
+                "421"
+            ],
+            [
+                "ὑπολαμβάνω, ὑπολήψομαι, ὑπέλαβον, ὑπείληφα, ὑπείλημμαι, ὑπελήφθην",
+                "take up, seize; answer, reply; assume, suppose",
+                "prendere, cogliere; Rispondere, rispondere; Supporre",
+                "verb: -ω liquid stem",
+                "The Mind, Perceiving and Learning",
+                "422"
+            ],
+            [
+                "ποιητής –οῦ, ὁ",
+                "creator, poet",
+                "compositore, poeta",
+                "noun: 2nd declension",
+                "Writing and Talking",
+                "423"
+            ],
+            [
+                "λανθάνω, λήσω, ἔλαθον, λέληθα",
+                "escape the notice of (+acc. and nom. participle), be unknown; (mid. and pass.) forget",
+                "sfuggire all'avviso di (+ acc. e nom. Participio), essere sconosciuto; (medio e passivo). Dimenticare",
+                "verb: -ω liquid stem",
+                "Government and Society",
+                "424"
+            ],
+            [
+                "βελτίων βέλτιον",
+                "better (comp. of ἀγαθός)",
+                "meglio (comp. di ἀγαθός)",
+                "adjective: 3rd declension -ων, -ον",
+                "Ethics and Morals",
+                "425"
+            ],
+            [
+                "πάντως",
+                "altogether, in all ways; at any rate",
+                "del tutto, in tutti i modi; in ogni caso",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "426"
+            ],
+            [
+                "πορεύω, πορεύσω, ἐπόρευσα, πεπόρευμαι, ἐπορεύθην",
+                "carry; (mid. and pass) go, walk, march",
+                "trasportare; (Medio e passivo) va, cammina, marcia",
+                "verb: -ω vowel stem",
+                "Work and Leisure",
+                "427"
+            ],
+            [
+                "ἀποκρίνω, ἀποκρινῶ, ἀπεκρινάμην, ἀπεκρίθη",
+                "separate, set apart, choοse; (mid.) answer, reply",
+                "separati, separati, scelti; (medio), rispondere, replicare",
+                "verb: -ω liquid stem",
+                "Writing and Talking",
+                "428"
+            ],
+            [
+                "πέντε",
+                "five",
+                "cinque",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "429"
+            ],
+            [
+                "κίνδυνος κινδύνου, ὁ",
+                "danger",
+                "pericolo",
+                "noun: 2nd declension",
+                "War and Peace",
+                "430"
+            ],
+            [
+                "κατηγορέω, κατηγορήσω, κατηγόρησα, κατηγόρηκα, κατηγόρημαι, κατηγορήθην",
+                "to speak against, to accuse (+gen.)",
+                "parlare contro, accusare (+gen.)",
+                "verb: contracted",
+                "Law and Judgment",
+                "431"
+            ],
+            [
+                "τρέπω, τρέψω, ἔτρεψα, τέτροφα, ἐτράπην",
+                "turn, direct towards a thing; put to flight, defeat; (pass.) turn one’s steps in a certain direction, go",
+                "girare, dirigersi verso una cosa; mettere in fuga, sconfiggere, (passivo) ruotare i passi in una certa direzione, andare",
+                "verb: -ω labial stem",
+                "Movement",
+                "432"
+            ],
+            [
+                "ὅμως",
+                "nevertheless, all the same, notwithstanding",
+                "tuttavia, cionondimeno",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "433"
+            ],
+            [
+                "θεῖος θεία θεῖον",
+                "divine",
+                "divino",
+                "adjective: 1st and 2nd declension",
+                "Religion",
+                "434"
+            ],
+            [
+                "ἱππεύς ἱππέως, ὁ",
+                "horseman, rider, charioteer",
+                "cavaliere, cavaliere, auriga",
+                "noun: 3rd declension -εύς, -έως",
+                "War and Peace",
+                "435"
+            ],
+            [
+                "κτάομαι, κτήσομαι, ἐκτησάμην, κέκτημαι",
+                "get, gain, acquire",
+                "ottenere, acquisire, acquisire",
+                "verb: deponent",
+                "Taking and Giving",
+                "436"
+            ],
+            [
+                "λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην",
+                "leave, abandon",
+                "lasciare, abbandonare",
+                "verb: -ω labial stem",
+                "Movement",
+                "437"
+            ],
+            [
+                "βουλή βουλῆς, ἡ",
+                "will, determination; counsel, piece of advice; council of elders",
+                "volontà, determinazione; consiglio, consiglio; consiglio degli anziani",
+                "noun: 1st declension",
+                "Government and Society",
+                "438"
+            ],
+            [
+                "ἐλπίς ἐλπίδος, ἡ",
+                "hope; expectation",
+                "speranza; aspettativa",
+                "noun: 3rd declension consonant stem",
+                "The Senses and Feelings",
+                "439"
+            ],
+            [
+                "γραφή γραφῆς, ἡ",
+                "a drawing, painting, writing; indictment",
+                "un disegno, pittura, scrittura; accusa",
+                "noun: 1st declension",
+                "Writing and Talking",
+                "440"
+            ],
+            [
+                "τίκτω, τέξω or τέξομαι, ἔτεκον, τέτοκα, τέτεγμαι, ἐτέχθην",
+                "beget, give birth to, produce",
+                "generare, nascere, produrre",
+                "verb: -ω dental stem",
+                "Family and Friendship and the Home",
+                "441"
+            ],
+            [
+                "κομίζω, κομιῶ, ἐκόμισα, κεκόμικα, κεκόμισμαι, ἐκομίσθην",
+                "take care of, provide for",
+                "prendersi cura di, assicurare di",
+                "verb: -ω dental stem",
+                "Help and Safety",
+                "442"
+            ],
+            [
+                "θυμός θυμοῦ, ὁ",
+                "life, spirit; soul, heart, mind",
+                "vita, spirito; anima, cuore, mente",
+                "noun: 2nd declension",
+                "Religion",
+                "443"
+            ],
+            [
+                "βλέπω, βλέψομαι, ἔβλεψα",
+                "see, look (at)",
+                "vedere, guardare (verso)",
+                "verb: -ω labial stem",
+                "The Senses and Feelings",
+                "444"
+            ],
+            [
+                "φόβος φόβου, ὁ",
+                "panic, fear, flight",
+                "panico, paura, fuga",
+                "noun: 2nd declension",
+                "The Senses and Feelings",
+                "445"
+            ],
+            [
+                "πολιτεία –ας, ἡ",
+                "constitution, citizenship, republic",
+                "costituzione, cittadinanza, repubblica",
+                "noun: 1st declension",
+                "Government and Society",
+                "446"
+            ],
+            [
+                "στάδιον σταδίου, τό (pl. στάδια and στάδιοι)",
+                "stadion or stade, the longest Greek unit of linear measure, about 185 meters",
+                "stadion o stade, la più lunga unità greca di misura lineare, circa 185 metri",
+                "noun: 2nd declension",
+                "Measurements and Numerals",
+                "447"
+            ],
+            [
+                "φρονέω, φρονήσω, ἐφρόνησα",
+                "think, intend to (+infin.); be minded towards (+adv. and dat.)",
+                "pensare, intendere (+infin.); essere disposti verso (+avv. e dat.)",
+                "verb: contracted",
+                "The Mind, Perceiving and Learning",
+                "448"
+            ],
+            [
+                "τοιόσδε τοιάδε τοιόνδε",
+                "such (as this), of such a sort (as this)",
+                "tale (come questo), di un tale tipo (come questo)",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "449"
+            ],
+            [
+                "ὁρμάω, ὁρμήσω, ὥρμησα, ὥρμηκα, ὥρμημαι, ὡρμήθην",
+                "set in motion, urge on; (intrans.) start, hasten on",
+                "stare in movimento, esortare; (intrans.) iniziare, affrettarsi",
+                "verb: contracted",
+                "Movement",
+                "450"
+            ],
+            [
+                "παρασκευάζω, παρασκευάσω, παρεσκεύασα",
+                "get ready, prepare, provide",
+                "prepararsi, preparare, fornire",
+                "verb: -ω dental stem",
+                "Work and Leisure",
+                "451"
+            ],
+            [
+                "λαλέω, λαλήσω, ἐλάλησα, λελάληκα, ἐλαλήθην",
+                "talk, chatter, babble",
+                "parlare, chiacchierare, ciarlare",
+                "verb: contracted",
+                "Writing and Talking",
+                "452"
+            ],
+            [
+                "δράω, δράσω, ἔδρασα, δέδρακα, δέδραμαι, ἐδράσθην",
+                "do, accomplish",
+                "fare, realizzare",
+                "verb: contracted",
+                "Work and Leisure",
+                "453"
+            ],
+            [
+                "σκοπέω, σκοπήσω, ἐσκόπησα",
+                "look at, watch; look into, consider, examine",
+                "vedere verso, guardare; esaminare, considerare, vedere dentro",
+                "verb: contracted",
+                "The Senses and Feelings",
+                "454"
+            ],
+            [
+                "βοῦς βοός, ὁ/ἡ",
+                "bull, ox, cow",
+                "toro, bue, mucca",
+                "noun: 3rd declension irregular",
+                "Animals and Plants",
+                "455"
+            ],
+            [
+                "ἡμέτερος ἡμετέρα ἡμέτρον",
+                "our",
+                "nostro",
+                "adjective: 1st and 2nd declension",
+                "Pronouns/Interrogatives",
+                "456"
+            ],
+            [
+                "γράμμα γράμματος, τό",
+                "letter, written character; (pl.) piece of writing, document(s)",
+                "lettera, carattere scritto; (pl.) pezzo di scrittura, documento / i",
+                "noun: 3rd declension consonant stem",
+                "Writing and Talking",
+                "457"
+            ],
+            [
+                "ἐρωτάω, ἐρήσομαι, 2 aor. ἠρόμην",
+                "ask someone (acc.) something (acc.); question, beg",
+                "chiedere a qualcuno (acc.) qualcosa (acc.); domandare, chiedere umilmente",
+                "verb: contracted",
+                "Writing and Talking",
+                "458"
+            ],
+            [
+                "πολεμέω, πολεμήσω, ἐπολέμησα, πεπολέμηκα",
+                "make war",
+                "fare guerra",
+                "verb: contracted",
+                "War and Peace",
+                "459"
+            ],
+            [
+                "θύω, θύσω, ἔθυσα, τέθυκα, τέθυμαι, ἐτύθην",
+                "sacrifice",
+                "sacrificare",
+                "verb: -ω vowel stem",
+                "Religion",
+                "460"
+            ],
+            [
+                "ἐλαύνω, ἐλῶ, ἤλασα, -ελήλακα, ἐλήλαμαι, ἠλάθην",
+                "drive, set in motion",
+                "condurre, mettere in movimento",
+                "verb: -ω liquid stem",
+                "Movement",
+                "461"
+            ],
+            [
+                "δέδοικα, δείσομαι, ἔδεισα",
+                "fear",
+                "io ho paura",
+                "verb: -ω dental stem",
+                "The Senses and Feelings",
+                "462"
+            ],
+            [
+                "σύμμαχος –ον",
+                "allied with (+dat.); οἱ σύμμαχοι allies",
+                "alleato con (+ dat.); οἱ σύμμαχοι alleati",
+                "adjective: 1st and 2nd declension",
+                "War and Peace",
+                "463"
+            ],
+            [
+                "ἡγεμών ἡγεμόνος, ὁ",
+                "guide, leader, commander",
+                "guida, capo, comandante",
+                "noun: 3rd declension consonant stem",
+                "Government and Society",
+                "464"
+            ],
+            [
+                "βαρύς βαρεῖα βαρύ",
+                "heavy, grievous, tiresome",
+                "pesante, doloroso, noioso",
+                "adjective: -ύς, -εῖα, -ύ",
+                "Characteristics",
+                "465"
+            ],
+            [
+                "ὧδε",
+                "thus, in this way; hither, here",
+                "così, in questo modo; qui, qui",
+                "adverb",
+                "Direction",
+                "466"
+            ],
+            [
+                "αἰσχρός –ά –όν",
+                "ugly, shameful, disgraceful",
+                "brutto, vergognoso, vergognoso",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "467"
+            ],
+            [
+                "εἰρήνη εἰρήνης, ἡ",
+                "peace",
+                "pace",
+                "noun: 1st declension",
+                "War and Peace",
+                "468"
+            ],
+            [
+                "ἁλίσκομαι, ἁλώσομαι, 2 aor. ἑάλων, ἑάλωκα",
+                "to be taken, conquered (act. supplied by αἱρέω)",
+                "prendere, conquistare (attuato da αἱρέω)",
+                "verb: deponent",
+                "War and Peace",
+                "469"
+            ],
+            [
+                "δέκα",
+                "ten",
+                "dieci",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "470"
+            ],
+            [
+                "ἀμείνων ἄμεινον",
+                "better, abler, stronger, braver (comp. of ἀγαθός)",
+                "meglio, più bello, più forte, più coraggioso (comp. di ἀγαθός)",
+                "adjective: 3rd declension -ων, -ον",
+                "Ethics and Morals",
+                "471"
+            ],
+            [
+                "χείρων χεῖρον",
+                "worse, inferior (comp. of κακός)",
+                "peggio, inferiore (comp. di κακός)",
+                "adjective: 3rd declension -ων, -ον",
+                "Ethics and Morals",
+                "472"
+            ],
+            [
+                "βοηθέω, βοηθήσω, ἐβοήθησα, βεβοήθηκα",
+                "help, assist (+dat.)",
+                "aiutare, assistere (+dat.)",
+                "verb: contracted",
+                "Help and Safety",
+                "473"
+            ],
+            [
+                "λαμπρός –ά –όν",
+                "bright, brilliant; well-known, illustrious",
+                "brillante, brillante; ben noto, illustre",
+                "adjective: 1st and 2nd declension",
+                "Characteristics",
+                "474"
+            ],
+            [
+                "ἀπαλλάσσω, ἀπαλλάξω, ἀπήλλαξα, ἀπήλλαχα, ἀπήλλαγμαι, ἀπηλλάχθην or ἀπηλλάγην",
+                "set free, release, deliver",
+                "liberare, rilasciare, consegnare",
+                "verb: -ω dental stem",
+                "Help and Safety",
+                "475"
+            ],
+            [
+                "βουλεύω βουλεύσω, ἐβούλευσα, βεβούλευκα, βεβούλευμαι, ἐβουλεύθην",
+                "plan (to), decide (to); (mid.) deliberate",
+                "pianificare (a), decidere (a); (medio) deliberata",
+                "verb: -ω vowel stem",
+                "War and Peace",
+                "476"
+            ],
+            [
+                "μάλα",
+                "very, very much",
+                "molto",
+                "adverb",
+                "Conjunctions/Adverbs",
+                "477"
+            ],
+            [
+                "αἰτέω, αἰτήσω, ᾔτησα, ᾔτηκα, ᾔτημαι, ᾐτήθην",
+                "ask (for), beg",
+                "chiedere (per), pretendere",
+                "verb: contracted",
+                "Writing and Talking",
+                "478"
+            ],
+            [
+                "σωτηρία σωτηρίας, ἡ",
+                "safety, deliverance",
+                "sicurezza, liberazione",
+                "noun: 1st declension",
+                "Help and Safety",
+                "479"
+            ],
+            [
+                "ἆρα",
+                "[introduces a question]",
+                "[introduce una domanda]",
+                "adverb",
+                "Particles",
+                "480"
+            ],
+            [
+                "διώκω, διώξομαι, ἐδίωξα, δεδίωχα, ἐδιώχθην",
+                "pursue",
+                "perseguire",
+                "verb: -ω palatal stem",
+                "Movement",
+                "481"
+            ],
+            [
+                "δαίμων δαίμονος, ὁ/ἡ",
+                "spirit, god, demon",
+                "spirito, dio, demone",
+                "noun: 3rd declension consonant stem",
+                "Religion",
+                "482"
+            ],
+            [
+                "οὐκοῦν",
+                "surely then (inviting assent to an inference)",
+                "sicuramente allora (invitando l'assenso a un'inferenza)",
+                "adverb",
+                "Particles",
+                "483"
+            ],
+            [
+                "γλῶσσα γλώσσης, ἡ",
+                "tongue; language",
+                "lingua; linguaggio",
+                "noun: 1st declension",
+                "Body Parts",
+                "484"
+            ],
+            [
+                "ἑπτά",
+                "seven",
+                "sette",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "485"
+            ],
+            [
+                "τολμάω, τολμήσω, ἐτόλμησα, τετόλμηκα, τετόλμημαι, ἐτολμήθην",
+                "have the courage, dare; undertake, undergo",
+                "avere il coraggio, ardire; intraprendere, subire",
+                "verb: contracted",
+                "The Senses and Feelings",
+                "486"
+            ],
+            [
+                "δεσπότης –ου, ὁ",
+                "master (of the household); absolute ruler",
+                "maestro (della famiglia); sovrano assoluto",
+                "noun: 1st declension",
+                "Government and Society",
+                "487"
+            ],
+            [
+                "εἰκός εἰκότος, τό",
+                "likelihood, probability; εἰκός (ἐστι) it is likely (+infin.) →ἔοικα",
+                "probabilità, probabilità; εἰκός (ἐστι) è probabile (+ infin.) → ἔοικα",
+                "noun: 3rd declension consonant stem",
+                "The Mind, Perceiving and Learning",
+                "488"
+            ],
+            [
+                "ἄδικος ἄδικον",
+                "unjust",
+                "ingiusto",
+                "adjective: 1st and 2nd declension",
+                "Ethics and Morals",
+                "489"
+            ],
+            [
+                "εἴκοσι(ν)",
+                "twenty",
+                "venti",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "490"
+            ],
+            [
+                "μυρίος μυρία μυρίον",
+                "countless; μύριοι 10,000; μυριάς -άδος ἡ 10,000, a countless amount",
+                "innumerevoli; μύριοι 10.000; μυριάς -άδος ἡ 10.000, una quantità innumerevole",
+                "adjective: 1st and 2nd declension",
+                "Measurements and Numerals",
+                "491"
+            ],
+            [
+                "αὐτίκα",
+                "at once, immediately",
+                "subito, immediatamente",
+                "adverb",
+                "Time",
+                "492"
+            ],
+            [
+                "δέκατος –η –ον",
+                "tenth",
+                "decimo",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "493"
+            ],
+            [
+                "βαίνω, βήσομαι, 2 aor. ἔβην, βέβηκα",
+                "walk, come, go",
+                "camminare, venire, andare",
+                "verb: -ω liquid stem",
+                "Movement",
+                "494"
+            ],
+            [
+                "περ",
+                "[enclitic added to pronouns and other particles for emphasis]",
+                "[enclitico aggiunto a pronomi e altre particelle per l'enfasi]",
+                "adverb",
+                "Particles",
+                "495"
+            ],
+            [
+                "ἐλεύθερος ἐλευθέρα ἐλεύθερον",
+                "free, independent",
+                "libero, indipendente",
+                "adjective: 1st and 2nd declension",
+                "Government and Society",
+                "496"
+            ],
+            [
+                "στρατιά –ᾶς, ἡ",
+                "army",
+                "esercito",
+                "noun: 1st declension",
+                "War and Peace",
+                "497"
+            ],
+            [
+                "ἀμφί",
+                "about, around",
+                "circa, intorno",
+                "preposition",
+                "Direction",
+                "498"
+            ],
+            [
+                "συμφορά –ᾶς, ἡ",
+                "event, circumstance, misfortune",
+                "evento, circostanza, sfortuna",
+                "noun: 1st declension",
+                "Life and Death",
+                "499"
+            ],
+            [
+                "ἑκατόν",
+                "hundred",
+                "centinaio",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "500"
+            ],
+            [
+                "νίκη νίκης, ἡ",
+                "victory",
+                "vittoria",
+                "noun: 1st declension",
+                "War and Peace",
+                "501"
+            ],
+            [
+                "ἔπος ἔπους, τό",
+                "word, speech, tale; prophecy",
+                "parola, parola, racconto; profezia",
+                "noun: 3rd declension σ-stem",
+                "Writing and Talking",
+                "502"
+            ],
+            [
+                "στρατός –οῦ, ὁ",
+                "army",
+                "esercito",
+                "noun: 2nd declension",
+                "War and Peace",
+                "503"
+            ],
+            [
+                "φράζω, φράσω, ἔφρασα, πέφρακα, πέφρασμαι, ἐφράσθην",
+                "tell, declare; (mid. and pass.) think (about)",
+                "raccontare, dichiarare; (medio e passive) pensare (a)",
+                "verb: -ω dental stem",
+                "Writing and Talking",
+                "504"
+            ],
+            [
+                "ἀργύριον ἀργυρίου, τό",
+                "money",
+                "soldi",
+                "noun: 2nd declension",
+                "Government and Society",
+                "505"
+            ],
+            [
+                "τριάκοντα",
+                "thirty",
+                "trenta",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "506"
+            ],
+            [
+                "ἕξ",
+                "six",
+                "sei",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "507"
+            ],
+            [
+                "πεμπτός –ή –όν",
+                "fifth",
+                "quinto",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "508"
+            ],
+            [
+                "μάρτυς μάρτυρος, ὁ/ἡ",
+                "witness",
+                "testimone",
+                "noun: 3rd declension consonant stem",
+                "Law and Judgment",
+                "509"
+            ],
+            [
+                "χαλκοῦς –ῆ –οῦν",
+                "of copper or bronze",
+                "di rame o bronzo",
+                "adjective: 1st and 2nd declension",
+                "Earth",
+                "510"
+            ],
+            [
+                "ἕβδομος –η –ον",
+                "seventh",
+                "settimo",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "511"
+            ],
+            [
+                "ποῦ",
+                "where",
+                "dove",
+                "pronoun",
+                "Pronouns/Interrogatives",
+                "512"
+            ],
+            [
+                "ναί",
+                "indeed, yes (used in strong affirmation)",
+                "anzi, sì (usato in forte affermazione)",
+                "adverb",
+                "Particles",
+                "513"
+            ],
+            [
+                "φῶς φωτός, τό",
+                "light, daylight",
+                "luce, luce del giorno",
+                "noun: 3rd declension consonant stem",
+                "World Order",
+                "514"
+            ],
+            [
+                "ὀκτώ",
+                "eight",
+                "otto",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "515"
+            ],
+            [
+                "ἕκτος –η –ον",
+                "sixth",
+                "sesto",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "516"
+            ],
+            [
+                "τριακοστός –ή –όν",
+                "thirtieth",
+                "trentesimo",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "517"
+            ],
+            [
+                "ἐννέα",
+                "nine",
+                "nove",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "518"
+            ],
+            [
+                "πότε",
+                "when?",
+                "quando?",
+                "adverb",
+                "Time",
+                "519"
+            ],
+            [
+                "ὄγδοος –η –ον",
+                "eighth",
+                "ottavo",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "520"
+            ],
+            [
+                "ἔνατος –α –ον",
+                "ninth",
+                "nono",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "521"
+            ],
+            [
+                "εἰκοστός –ή –όν",
+                "twentieth",
+                "ventesimo",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "522"
+            ],
+            [
+                "ἀγγέλλω, ἀγγελῶ, ἤγγειλα, ἤγγελκα, ἤγγελμαι, ἠγγέλθην",
+                "report, tell",
+                "segnalare, dire",
+                "verb: -ω liquid stem",
+                "Writing and Talking",
+                "523"
+            ],
+            [
+                "ἑκατοστός –ή –όν",
+                "hundredth",
+                "centesimo",
+                "adjective: numeral",
+                "Measurements and Numerals",
+                "524"
+            ]
+        ]
+    }
+}
