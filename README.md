@@ -5,7 +5,7 @@ This repository contains two json files with the most frequent words in Latin an
 ### Latin
 - ~1000 words
 - Translated into English and Italian
-### Ancient Greek - ~500 words, translated into english and italian
+### Ancient Greek
 - ~500 words
 - Translated into English and Italian
 
